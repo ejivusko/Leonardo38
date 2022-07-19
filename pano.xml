@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node3" appversion="6.1.11" apprev="18043">
+  <panorama id="node3">
+    <input width="2048" overlap="1" levelbias="0.400" levelbiashidpi="1.000" leveltilesize="510" levelingpitch="0" height="2048" levelingroll="0" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="2048" preload="0" height="2048" predecode="0"/>
+      <level width="1024" preload="0" height="1024" predecode="0"/>
+      <level width="512" preload="0" height="512" predecode="0"/>
+      <level width="256" preload="1" height="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="-156.727" projection="4" tilt="-0.339384" fov="70"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fovstereographic="270" scaletofit="1" tilt="90" fov="120"/>
+    </view>
+    <userdata source="" author="" description="" title="" datetime="07/12/2022 11:01 AM" info="" comment="" copyright="" longitude="" nodeid="node3" heading="0" tags="4. 2nd Milan" customnodeid="" latitude=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label enabled="1" width="180" background="1" borderradius="1" bordercolor="0x000000" backgroundalpha="1" wordwrap="1" textalpha="1" height="20" backgroundcolor="0xffffff" borderalpha="1" textcolor="0x000000" border="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot pan="-9.32" url="images/027125.jpg" description="" title="Saint John the Baptist. 1513–1516" distance3D="428.627" customimageheight="75" customimagewidth="75" use3D="0" customimage="media/image_arti_figurative.png" skinid="ht_image" target="" id="Point03" tilt="-9.98" fov="10"/>
+      <hotspot pan="-106.25" url="images/img1.jpg" description="" title="Anatomical drawings" distance3D="428.627" customimageheight="75" customimagewidth="75" use3D="0" customimage="media/image_storia.png" skinid="ht_image" target="" id="Point04" tilt="8.19" fov="10"/>
+      <hotspot pan="-281.71" url="images/Enscape_2022-07-15-16-16-34.jpg" description="" title="The Mona Lisa. c. 1503–1506, perhaps continuing until c. 1517" distance3D="428.627" customimageheight="75" customimagewidth="75" use3D="0" customimage="media/image_arti_figurative.png" skinid="ht_image" target="" id="Point03" tilt="-7.56" fov="10"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" type="crossdissolve" zoomout="0" softedge="0" blendtime="1" zoomafteroutfov="20" zoomspeed="2" zoomoutpause="1" zoomin="0" blendcolor="0x000000" zoomfov="20" zoomafterinfov="90"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" speedwheel="1" contextfullscreen="1" contextprojections="0" rubberband="0" lockedwheel="0" lockedkeyboardzoom="0" invertwheel="0" simulatemass="1" hideabout="0" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedkeyboard="0"/>
+  </panorama>
+  <masternode>
+    <userdata source="" author="" description="" title="" datetime="" info="" comment="" copyright="" longitude="" nodeid="master" heading="0" tags="" customnodeid="" latitude=""/>
+  </masternode>
+</tour>
