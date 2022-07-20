@@ -9,7 +9,7 @@
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
-      <start projection="4" pan="-53.0482" tilt="-4.3521" fov="70"/>
+      <start projection="4" pan="45" tilt="0" fov="70"/>
       <flyin projection="9" pan="0" tilt="-90" fov="170"/>
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max pan="360" fovstereographic="270" fovfisheye="360" tilt="90" scaletofit="1" fov="120"/>
@@ -33,6 +33,7 @@
     </hotspots>
     <media/>
     <transition zoomout="0" zoomoutpause="1" zoomafteroutfov="20" zoomin="0" type="crossdissolve" zoomafterinfov="90" blendcolor="0x000000" zoomspeed="2" softedge="0" enabled="1" blendtime="1" zoomfov="20"/>
+    <autorotate useanimation="0" speed="0.030" nodedelay="0.00" nodefilter="" returntohorizon="0.000" delay="4.00" startloaded="1" enabled="1" noderandom="1"/>
     <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
     <control invertcontrol="1" lockedmouse="0" dblclickfullscreen="0" lockedkeyboardzoom="0" speedwheel="1" invertwheel="0" rubberband="0" lockedkeyboard="0" hideabout="0" simulatemass="1" lockedwheel="0" contextprojections="0" sensitivity="8" contextfullscreen="1"/>
   </panorama>
