@@ -1,141 +1,141 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tour appversion="6.1.11" start="node3" apprev="18043">
+<tour apprev="18043" start="node3" appversion="6.1.11">
   <panorama id="node3">
-    <input width="2048" leveltilesize="510" levelingpitch="0" levelbias="0.400" height="2048" levelingroll="0" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" overlap="1">
-      <level width="2048" preload="0" height="2048" predecode="0"/>
-      <level width="1024" preload="0" height="1024" predecode="0"/>
-      <level width="512" preload="0" height="512" predecode="0"/>
-      <level width="256" preload="1" height="256" predecode="1"/>
-      <preview color="0x808080" strip="1"/>
+    <input leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" width="2048" height="2048" leveltilesize="510">
+      <level predecode="0" width="2048" height="2048" preload="0"/>
+      <level predecode="0" width="1024" height="1024" preload="0"/>
+      <level predecode="0" width="512" height="512" preload="0"/>
+      <level predecode="1" width="256" height="256" preload="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
-      <start pan="45" projection="4" fov="75" tilt="0"/>
-      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
-      <min pan="0" fovpixel="2" tilt="-90"/>
-      <max pan="360" scaletofit="1" fov="120" fovstereographic="270" tilt="90" fovfisheye="360"/>
+      <start projection="4" tilt="0" fov="75" pan="45"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fov="120" fovfisheye="360" pan="360" fovstereographic="270" scaletofit="1"/>
     </view>
-    <userdata longitude="" copyright="" source="" comment="" description="" customnodeid="" datetime="07/12/2022 11:01 AM" tags="4. 2nd Milan" title="1st Florence" author="" latitude="" heading="0" info="" nodeid="node3"/>
-    <hotspots width="180" wordwrap="1" height="20">
-      <label borderradius="1" width="180" textalpha="1" wordwrap="1" backgroundcolor="0xffffff" enabled="1" backgroundalpha="1" textcolor="0x000000" bordercolor="0x000000" borderalpha="1" height="20" border="1" background="1"/>
-      <polystyle backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" mode="0"/>
-      <hotspot pan="-321.97" id="Point03" use3D="0" fov="10" target="" description="" customimage="media/image_arti_figurative.png" tilt="-5.42" customimagewidth="60" title="&lt;center>『聖ヒエロニムス』 Saint Jerome in the Wilderness、1482" url="images/p1.png" skinid="ht_image" customimageheight="60" distance3D="342.902"/>
-      <hotspot pan="-21.03" id="Point04" use3D="0" fov="10" target="" description="&#xa;&#xa;&lt;center>Here can be some descriptions, cover images or links. &#xa;&#xa;&lt;img src=images/book1.png width=75% lenght=75%>&#xa;&#xa;Like this: &lt;a href=https://en.wikipedia.org/wiki/Leonardo_da_Vinci style=&quot;color:red&quot;>LINK&lt;/a>&#xa;&#xa;Or the hotspot can be opened as a direct link without opening this window&#xa;&#xa;&#xa;" customimage="media/image_letteratura.png" tilt="-7.94" customimagewidth="60" title="&lt;center>The third book" url="" skinid="ht_info" customimageheight="60" distance3D="342.902"/>
-      <hotspot pan="-166.7" id="Point03" use3D="0" fov="10" target="" description="" customimage="media/image_arti_figurative.png" tilt="-16.12" customimagewidth="50" title="&lt;center>『東方三博士（マギ）の礼拝』 Adoration of the Magi、1481" url="images/p2.png" skinid="ht_image" customimageheight="50" distance3D="285.751"/>
-      <hotspot pan="-78.41" id="Point01" use3D="0" fov="10" target="" description="" customimage="media/WHITE3.png" tilt="0.54" customimagewidth="40" title="&lt;center>『戦士の胸像』 Bust of a Warrior、1475-1480" url="images/d3.png" skinid="ht_image" customimageheight="40" distance3D="228.601"/>
-      <hotspot pan="-53.8" id="Point01" use3D="0" fov="10" target="" description="" customimage="media/WHITE3.png" tilt="7.68" customimagewidth="40" title="&lt;center>『アルノ渓谷の風景』 Landscape of the Arno Valley、1473" url="images/d1.png" skinid="ht_image" customimageheight="40" distance3D="228.601"/>
-      <hotspot pan="-32.93" id="Point04" use3D="0" fov="10" target="" description="&#xa;&#xa;&lt;center>Here can be some descriptions, cover images or links. &#xa;&#xa;&lt;img src=images/book1.png width=75% lenght=75%>&#xa;&#xa;Like this: &lt;a href=https://en.wikipedia.org/wiki/Leonardo_da_Vinci style=&quot;color:red&quot;>LINK&lt;/a>&#xa;&#xa;Or the hotspot can be opened as a direct link without opening this window&#xa;&#xa;&#xa;" customimage="media/image_letteratura.png" tilt="-7.61" customimagewidth="60" title="&lt;center>The second book" url="" skinid="ht_info" customimageheight="60" distance3D="342.902"/>
-      <hotspot pan="-65.8" id="Point04" use3D="0" fov="10" target="" description="&#xa;&#xa;&lt;center>Here can be some descriptions, cover images or links. &#xa;&#xa;&lt;img src=images/book1.png width=75% lenght=75%>&#xa;&#xa;Like this: &lt;a href=https://en.wikipedia.org/wiki/Leonardo_da_Vinci style=&quot;color:red&quot;>LINK&lt;/a>&#xa;&#xa;Or the hotspot can be opened as a direct link without opening this window&#xa;&#xa;&#xa;" customimage="media/image_letteratura.png" tilt="-11.15" customimagewidth="60" title="&lt;center>The first book" url="" skinid="ht_info" customimageheight="60" distance3D="342.902"/>
-      <hotspot pan="-315.51" id="Point04" use3D="0" fov="10" target="" description="&#xa;&#xa;&lt;center>Here can be some descriptions, cover images or links. &#xa;&#xa;&lt;img src=images/book1.png width=75% lenght=75%>&#xa;&#xa;Like this: &lt;a href=https://en.wikipedia.org/wiki/Leonardo_da_Vinci style=&quot;color:red&quot;>LINK&lt;/a>&#xa;&#xa;Or the hotspot can be opened as a direct link without opening this window&#xa;&#xa;&#xa;" customimage="media/image_letteratura.png" tilt="-20.96" customimagewidth="60" title="&lt;center>The fourth book" url="" skinid="ht_info" customimageheight="60" distance3D="342.902"/>
-      <hotspot pan="-273.44" id="Point04" use3D="0" fov="10" target="" description="&#xa;&#xa;&lt;center>Here can be some descriptions, cover images or links. &#xa;&#xa;&lt;img src=images/book1.png width=75% lenght=75%>&#xa;&#xa;Like this: &lt;a href=https://en.wikipedia.org/wiki/Leonardo_da_Vinci style=&quot;color:red&quot;>LINK&lt;/a>&#xa;&#xa;Or the hotspot can be opened as a direct link without opening this window&#xa;&#xa;&#xa;&#xa;" customimage="media/image_letteratura.png" tilt="-10.59" customimagewidth="60" title="&lt;center>The fifth book" url="" skinid="ht_info" customimageheight="60" distance3D="342.902"/>
-      <hotspot pan="-69.09" id="Point01" use3D="0" fov="10" target="" description="" customimage="media/WHITE3.png" tilt="-1.66" customimagewidth="40" title="&lt;center>『大砲』 Artillery、1480" url="images/d2.png" skinid="ht_image" customimageheight="40" distance3D="228.601"/>
+    <userdata author="" datetime="07/12/2022 11:01 AM" info="" heading="0" description="" comment="" longitude="" nodeid="node3" copyright="" source="" tags="4. 2nd Milan" customnodeid="" title="1st Florence" latitude=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label enabled="1" borderalpha="1" backgroundalpha="1" textcolor="0x000000" background="1" bordercolor="0x000000" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderradius="1" width="180" height="20" border="1"/>
+      <polystyle borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot customimage="media/image_arti_figurative.png" distance3D="342.902" description="" target="" skinid="ht_image" tilt="-5.42" use3D="0" fov="10" id="Point03" url="images/p1.png" customimagewidth="60" title="&lt;center>『聖ヒエロニムス』 Saint Jerome in the Wilderness、1482" pan="-321.97" customimageheight="60"/>
+      <hotspot customimage="media/image_letteratura.png" distance3D="342.902" description="&#xa;&#xa;&lt;center>Here can be some descriptions, cover images or links. &#xa;&#xa;&lt;img src=images/book1.png width=75% lenght=75%>&#xa;&#xa;Like this: &lt;a href=https://en.wikipedia.org/wiki/Leonardo_da_Vinci style=&quot;color:red&quot;>LINK&lt;/a>&#xa;&#xa;Or the hotspot can be opened as a direct link without opening this window&#xa;&#xa;&#xa;" target="" skinid="ht_info" tilt="-7.94" use3D="0" fov="10" id="Point04" url="" customimagewidth="60" title="&lt;center>The third book" pan="-21.03" customimageheight="60"/>
+      <hotspot customimage="media/image_arti_figurative.png" distance3D="285.751" description="" target="" skinid="ht_image" tilt="-16.12" use3D="0" fov="10" id="Point03" url="images/p2.png" customimagewidth="50" title="&lt;center>『東方三博士（マギ）の礼拝』 Adoration of the Magi、1481" pan="-166.7" customimageheight="50"/>
+      <hotspot customimage="media/WHITE3.png" distance3D="228.601" description="" target="" skinid="ht_image" tilt="0.54" use3D="0" fov="10" id="Point01" url="images/d3.png" customimagewidth="40" title="&lt;center>『戦士の胸像』 Bust of a Warrior、1475-1480" pan="-78.41" customimageheight="40"/>
+      <hotspot customimage="media/WHITE3.png" distance3D="228.601" description="" target="" skinid="ht_image" tilt="7.68" use3D="0" fov="10" id="Point01" url="images/d1.png" customimagewidth="40" title="&lt;center>『アルノ渓谷の風景』 Landscape of the Arno Valley、1473" pan="-53.8" customimageheight="40"/>
+      <hotspot customimage="media/image_letteratura.png" distance3D="342.902" description="&#xa;&#xa;&lt;center>Here can be some descriptions, cover images or links. &#xa;&#xa;&lt;img src=images/book1.png width=75% lenght=75%>&#xa;&#xa;Like this: &lt;a href=https://en.wikipedia.org/wiki/Leonardo_da_Vinci style=&quot;color:red&quot;>LINK&lt;/a>&#xa;&#xa;Or the hotspot can be opened as a direct link without opening this window&#xa;&#xa;&#xa;" target="" skinid="ht_info" tilt="-7.61" use3D="0" fov="10" id="Point04" url="" customimagewidth="60" title="&lt;center>The second book" pan="-32.93" customimageheight="60"/>
+      <hotspot customimage="media/image_letteratura.png" distance3D="342.902" description="&#xa;&#xa;&lt;center>Here can be some descriptions, cover images or links. &#xa;&#xa;&lt;img src=images/book1.png width=75% lenght=75%>&#xa;&#xa;Like this: &lt;a href=https://en.wikipedia.org/wiki/Leonardo_da_Vinci style=&quot;color:red&quot;>LINK&lt;/a>&#xa;&#xa;Or the hotspot can be opened as a direct link without opening this window&#xa;&#xa;&#xa;" target="" skinid="ht_info" tilt="-11.15" use3D="0" fov="10" id="Point04" url="" customimagewidth="60" title="&lt;center>The first book" pan="-65.8" customimageheight="60"/>
+      <hotspot customimage="media/image_letteratura.png" distance3D="342.902" description="&#xa;&#xa;&lt;center>Here can be some descriptions, cover images or links. &#xa;&#xa;&lt;img src=images/book1.png width=75% lenght=75%>&#xa;&#xa;Like this: &lt;a href=https://en.wikipedia.org/wiki/Leonardo_da_Vinci style=&quot;color:red&quot;>LINK&lt;/a>&#xa;&#xa;Or the hotspot can be opened as a direct link without opening this window&#xa;&#xa;&#xa;" target="" skinid="ht_info" tilt="-20.96" use3D="0" fov="10" id="Point04" url="" customimagewidth="60" title="&lt;center>The fourth book" pan="-315.51" customimageheight="60"/>
+      <hotspot customimage="media/image_letteratura.png" distance3D="342.902" description="&#xa;&#xa;&lt;center>Here can be some descriptions, cover images or links. &#xa;&#xa;&lt;img src=images/book1.png width=75% lenght=75%>&#xa;&#xa;Like this: &lt;a href=https://en.wikipedia.org/wiki/Leonardo_da_Vinci style=&quot;color:red&quot;>LINK&lt;/a>&#xa;&#xa;Or the hotspot can be opened as a direct link without opening this window&#xa;&#xa;&#xa;&#xa;" target="" skinid="ht_info" tilt="-10.59" use3D="0" fov="10" id="Point04" url="" customimagewidth="60" title="&lt;center>The fifth book" pan="-273.44" customimageheight="60"/>
+      <hotspot customimage="media/WHITE3.png" distance3D="228.601" description="" target="" skinid="ht_image" tilt="-1.66" use3D="0" fov="10" id="Point01" url="images/d2.png" customimagewidth="40" title="&lt;center>『大砲』 Artillery、1480" pan="-69.09" customimageheight="40"/>
     </hotspots>
     <media/>
-    <transition zoomafterinfov="90" softedge="0" blendtime="1" zoomoutpause="1" blendcolor="0x000000" enabled="1" zoomfov="20" type="crossdissolve" zoomin="0" zoomspeed="2" zoomafteroutfov="20" zoomout="0"/>
-    <autorotate nodefilter="" delay="4.00" noderandom="1" enabled="1" startloaded="1" returntohorizon="0.000" useanimation="0" speed="0.030" nodedelay="0.00"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
-    <control simulatemass="1" invertcontrol="1" lockedmouse="0" sensitivity="10" rubberband="0" lockedkeyboardzoom="0" lockedkeyboard="0" invertwheel="1" contextprojections="0" contextfullscreen="1" lockedwheel="0" hideabout="0" speedwheel="1.5" dblclickfullscreen="0"/>
+    <transition zoomafteroutfov="20" zoomout="0" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomspeed="2" type="crossdissolve" zoomafterinfov="90" softedge="0" blendtime="1" zoomfov="20"/>
+    <autorotate enabled="1" nodedelay="0.00" useanimation="0" delay="4.00" returntohorizon="0.000" nodefilter="" speed="0.030" noderandom="1" startloaded="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedwheel="0" lockedkeyboard="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0" contextfullscreen="1" hideabout="0" speedwheel="1.5" dblclickfullscreen="0" rubberband="0" simulatemass="1" lockedmouse="0" sensitivity="10" invertwheel="1"/>
   </panorama>
   <panorama id="node4">
-    <input width="2048" leveltilesize="510" levelingpitch="0" levelbias="0.400" height="2048" levelingroll="0" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" overlap="1">
-      <level width="2048" preload="0" height="2048" predecode="0"/>
-      <level width="1024" preload="0" height="1024" predecode="0"/>
-      <level width="512" preload="0" height="512" predecode="0"/>
-      <level width="256" preload="1" height="256" predecode="1"/>
-      <preview color="0x808080" strip="1"/>
+    <input leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" width="2048" height="2048" leveltilesize="510">
+      <level predecode="0" width="2048" height="2048" preload="0"/>
+      <level predecode="0" width="1024" height="1024" preload="0"/>
+      <level predecode="0" width="512" height="512" preload="0"/>
+      <level predecode="1" width="256" height="256" preload="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
-      <start pan="-3.93796e-06" projection="4" fov="80" tilt="-5.52635e-07"/>
-      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
-      <min pan="0" fovpixel="2" tilt="-90"/>
-      <max pan="360" scaletofit="1" fov="120" fovstereographic="270" tilt="90" fovfisheye="360"/>
+      <start projection="4" tilt="-5.52635e-07" fov="80" pan="-3.93796e-06"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fov="120" fovfisheye="360" pan="360" fovstereographic="270" scaletofit="1"/>
     </view>
-    <userdata longitude="" copyright="" source="" comment="" description="" customnodeid="" datetime="07/03/2022 4:07 AM" tags="2. 1st Milan" title="1st Milan" author="" latitude="" heading="0" info="" nodeid="node4"/>
-    <hotspots width="180" wordwrap="1" height="20">
-      <label borderradius="1" width="180" textalpha="1" wordwrap="1" backgroundcolor="0xffffff" enabled="1" backgroundalpha="1" textcolor="0x000000" bordercolor="0x000000" borderalpha="1" height="20" border="1" background="1"/>
-      <polystyle backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" mode="0"/>
+    <userdata author="" datetime="07/03/2022 4:07 AM" info="" heading="0" description="" comment="" longitude="" nodeid="node4" copyright="" source="" tags="2. 1st Milan" customnodeid="" title="1st Milan" latitude=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label enabled="1" borderalpha="1" backgroundalpha="1" textcolor="0x000000" background="1" bordercolor="0x000000" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderradius="1" width="180" height="20" border="1"/>
+      <polystyle borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" handcursor="1"/>
     </hotspots>
     <media/>
-    <transition zoomafterinfov="90" softedge="0" blendtime="1" zoomoutpause="1" blendcolor="0x000000" enabled="1" zoomfov="20" type="crossdissolve" zoomin="0" zoomspeed="2" zoomafteroutfov="20" zoomout="0"/>
-    <autorotate nodefilter="" delay="4.00" noderandom="1" enabled="1" startloaded="1" returntohorizon="0.000" useanimation="0" speed="0.030" nodedelay="0.00"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
-    <control simulatemass="1" invertcontrol="1" lockedmouse="0" sensitivity="10" rubberband="0" lockedkeyboardzoom="0" lockedkeyboard="0" invertwheel="1" contextprojections="0" contextfullscreen="1" lockedwheel="0" hideabout="0" speedwheel="1.5" dblclickfullscreen="0"/>
+    <transition zoomafteroutfov="20" zoomout="0" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomspeed="2" type="crossdissolve" zoomafterinfov="90" softedge="0" blendtime="1" zoomfov="20"/>
+    <autorotate enabled="1" nodedelay="0.00" useanimation="0" delay="4.00" returntohorizon="0.000" nodefilter="" speed="0.030" noderandom="1" startloaded="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedwheel="0" lockedkeyboard="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0" contextfullscreen="1" hideabout="0" speedwheel="1.5" dblclickfullscreen="0" rubberband="0" simulatemass="1" lockedmouse="0" sensitivity="10" invertwheel="1"/>
   </panorama>
   <panorama id="node5">
-    <input width="2048" leveltilesize="510" levelingpitch="0" levelbias="0.400" height="2048" levelingroll="0" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" overlap="1">
-      <level width="2048" preload="0" height="2048" predecode="0"/>
-      <level width="1024" preload="0" height="1024" predecode="0"/>
-      <level width="512" preload="0" height="512" predecode="0"/>
-      <level width="256" preload="1" height="256" predecode="1"/>
-      <preview color="0x808080" strip="1"/>
+    <input leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" width="2048" height="2048" leveltilesize="510">
+      <level predecode="0" width="2048" height="2048" preload="0"/>
+      <level predecode="0" width="1024" height="1024" preload="0"/>
+      <level predecode="0" width="512" height="512" preload="0"/>
+      <level predecode="1" width="256" height="256" preload="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
-      <start pan="0" projection="4" fov="80" tilt="0"/>
-      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
-      <min pan="0" fovpixel="2" tilt="-90"/>
-      <max pan="360" scaletofit="1" fov="120" fovstereographic="270" tilt="90" fovfisheye="360"/>
+      <start projection="4" tilt="0" fov="80" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fov="120" fovfisheye="360" pan="360" fovstereographic="270" scaletofit="1"/>
     </view>
-    <userdata longitude="" copyright="" source="" comment="" description="" customnodeid="" datetime="07/07/2022 7:36 AM" tags="3. 2nd Florence" title="2nd Florence" author="" latitude="" heading="0" info="" nodeid="node5"/>
-    <hotspots width="180" wordwrap="1" height="20">
-      <label borderradius="1" width="180" textalpha="1" wordwrap="1" backgroundcolor="0xffffff" enabled="1" backgroundalpha="1" textcolor="0x000000" bordercolor="0x000000" borderalpha="1" height="20" border="1" background="1"/>
-      <polystyle backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" mode="0"/>
+    <userdata author="" datetime="07/07/2022 7:36 AM" info="" heading="0" description="" comment="" longitude="" nodeid="node5" copyright="" source="" tags="3. 2nd Florence" customnodeid="" title="2nd Florence" latitude=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label enabled="1" borderalpha="1" backgroundalpha="1" textcolor="0x000000" background="1" bordercolor="0x000000" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderradius="1" width="180" height="20" border="1"/>
+      <polystyle borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" handcursor="1"/>
     </hotspots>
     <media/>
-    <transition zoomafterinfov="90" softedge="0" blendtime="1" zoomoutpause="1" blendcolor="0x000000" enabled="1" zoomfov="20" type="crossdissolve" zoomin="0" zoomspeed="2" zoomafteroutfov="20" zoomout="0"/>
-    <autorotate nodefilter="" delay="4.00" noderandom="1" enabled="1" startloaded="1" returntohorizon="0.000" useanimation="0" speed="0.030" nodedelay="0.00"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
-    <control simulatemass="1" invertcontrol="1" lockedmouse="0" sensitivity="10" rubberband="0" lockedkeyboardzoom="0" lockedkeyboard="0" invertwheel="1" contextprojections="0" contextfullscreen="1" lockedwheel="0" hideabout="0" speedwheel="1.5" dblclickfullscreen="0"/>
+    <transition zoomafteroutfov="20" zoomout="0" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomspeed="2" type="crossdissolve" zoomafterinfov="90" softedge="0" blendtime="1" zoomfov="20"/>
+    <autorotate enabled="1" nodedelay="0.00" useanimation="0" delay="4.00" returntohorizon="0.000" nodefilter="" speed="0.030" noderandom="1" startloaded="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedwheel="0" lockedkeyboard="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0" contextfullscreen="1" hideabout="0" speedwheel="1.5" dblclickfullscreen="0" rubberband="0" simulatemass="1" lockedmouse="0" sensitivity="10" invertwheel="1"/>
   </panorama>
   <panorama id="node6">
-    <input width="2048" leveltilesize="510" levelingpitch="0" levelbias="0.400" height="2048" levelingroll="0" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" overlap="1">
-      <level width="2048" preload="0" height="2048" predecode="0"/>
-      <level width="1024" preload="0" height="1024" predecode="0"/>
-      <level width="512" preload="0" height="512" predecode="0"/>
-      <level width="256" preload="1" height="256" predecode="1"/>
-      <preview color="0x808080" strip="1"/>
+    <input leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" width="2048" height="2048" leveltilesize="510">
+      <level predecode="0" width="2048" height="2048" preload="0"/>
+      <level predecode="0" width="1024" height="1024" preload="0"/>
+      <level predecode="0" width="512" height="512" preload="0"/>
+      <level predecode="1" width="256" height="256" preload="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
-      <start pan="-117" projection="4" fov="80" tilt="0"/>
-      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
-      <min pan="0" fovpixel="2" tilt="-90"/>
-      <max pan="360" scaletofit="1" fov="120" fovstereographic="270" tilt="90" fovfisheye="360"/>
+      <start projection="4" tilt="0" fov="80" pan="-117"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fov="120" fovfisheye="360" pan="360" fovstereographic="270" scaletofit="1"/>
     </view>
-    <userdata longitude="" copyright="" source="" comment="" description="" customnodeid="" datetime="07/12/2022 11:01 AM" tags="4. 2nd Milan" title="2nd Milan" author="" latitude="" heading="0" info="" nodeid="node6"/>
-    <hotspots width="180" wordwrap="1" height="20">
-      <label borderradius="1" width="180" textalpha="1" wordwrap="1" backgroundcolor="0xffffff" enabled="1" backgroundalpha="1" textcolor="0x000000" bordercolor="0x000000" borderalpha="1" height="20" border="1" background="1"/>
-      <polystyle backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" mode="0"/>
+    <userdata author="" datetime="07/12/2022 11:01 AM" info="" heading="0" description="" comment="" longitude="" nodeid="node6" copyright="" source="" tags="4. 2nd Milan" customnodeid="" title="2nd Milan" latitude=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label enabled="1" borderalpha="1" backgroundalpha="1" textcolor="0x000000" background="1" bordercolor="0x000000" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderradius="1" width="180" height="20" border="1"/>
+      <polystyle borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" handcursor="1"/>
     </hotspots>
     <media/>
-    <transition zoomafterinfov="90" softedge="0" blendtime="1" zoomoutpause="1" blendcolor="0x000000" enabled="1" zoomfov="20" type="crossdissolve" zoomin="0" zoomspeed="2" zoomafteroutfov="20" zoomout="0"/>
-    <autorotate nodefilter="" delay="4.00" noderandom="1" enabled="1" startloaded="1" returntohorizon="0.000" useanimation="0" speed="0.030" nodedelay="0.00"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
-    <control simulatemass="1" invertcontrol="1" lockedmouse="0" sensitivity="10" rubberband="0" lockedkeyboardzoom="0" lockedkeyboard="0" invertwheel="1" contextprojections="0" contextfullscreen="1" lockedwheel="0" hideabout="0" speedwheel="1.5" dblclickfullscreen="0"/>
+    <transition zoomafteroutfov="20" zoomout="0" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomspeed="2" type="crossdissolve" zoomafterinfov="90" softedge="0" blendtime="1" zoomfov="20"/>
+    <autorotate enabled="1" nodedelay="0.00" useanimation="0" delay="4.00" returntohorizon="0.000" nodefilter="" speed="0.030" noderandom="1" startloaded="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedwheel="0" lockedkeyboard="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0" contextfullscreen="1" hideabout="0" speedwheel="1.5" dblclickfullscreen="0" rubberband="0" simulatemass="1" lockedmouse="0" sensitivity="10" invertwheel="1"/>
   </panorama>
   <panorama id="node7">
-    <input width="2048" leveltilesize="510" levelingpitch="0" levelbias="0.400" height="2048" levelingroll="0" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" overlap="1">
-      <level width="2048" preload="0" height="2048" predecode="0"/>
-      <level width="1024" preload="0" height="1024" predecode="0"/>
-      <level width="512" preload="0" height="512" predecode="0"/>
-      <level width="256" preload="1" height="256" predecode="1"/>
-      <preview color="0x808080" strip="1"/>
+    <input leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" width="2048" height="2048" leveltilesize="510">
+      <level predecode="0" width="2048" height="2048" preload="0"/>
+      <level predecode="0" width="1024" height="1024" preload="0"/>
+      <level predecode="0" width="512" height="512" preload="0"/>
+      <level predecode="1" width="256" height="256" preload="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
-      <start pan="138.5" projection="4" fov="80" tilt="0"/>
-      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
-      <min pan="0" fovpixel="2" tilt="-90"/>
-      <max pan="360" scaletofit="1" fov="120" fovstereographic="270" tilt="90" fovfisheye="360"/>
+      <start projection="4" tilt="0" fov="80" pan="138.5"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fov="120" fovfisheye="360" pan="360" fovstereographic="270" scaletofit="1"/>
     </view>
-    <userdata longitude="" copyright="" source="" comment="" description="" customnodeid="" datetime="06/24/2022 11:59 PM" tags="4alt" title="Amboise" author="" latitude="" heading="0" info="" nodeid="node7"/>
-    <hotspots width="180" wordwrap="1" height="20">
-      <label borderradius="1" width="180" textalpha="1" wordwrap="1" backgroundcolor="0xffffff" enabled="1" backgroundalpha="1" textcolor="0x000000" bordercolor="0x000000" borderalpha="1" height="20" border="1" background="1"/>
-      <polystyle backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" mode="0"/>
+    <userdata author="" datetime="06/24/2022 11:59 PM" info="" heading="0" description="" comment="" longitude="" nodeid="node7" copyright="" source="" tags="4alt" customnodeid="" title="Amboise" latitude=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label enabled="1" borderalpha="1" backgroundalpha="1" textcolor="0x000000" background="1" bordercolor="0x000000" wordwrap="1" backgroundcolor="0xffffff" textalpha="1" borderradius="1" width="180" height="20" border="1"/>
+      <polystyle borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" handcursor="1"/>
     </hotspots>
     <media/>
-    <transition zoomafterinfov="90" softedge="0" blendtime="1" zoomoutpause="1" blendcolor="0x000000" enabled="1" zoomfov="20" type="crossdissolve" zoomin="0" zoomspeed="2" zoomafteroutfov="20" zoomout="0"/>
-    <autorotate nodefilter="" delay="4.00" noderandom="1" enabled="1" startloaded="1" returntohorizon="0.000" useanimation="0" speed="0.030" nodedelay="0.00"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
-    <control simulatemass="1" invertcontrol="1" lockedmouse="0" sensitivity="10" rubberband="0" lockedkeyboardzoom="0" lockedkeyboard="0" invertwheel="1" contextprojections="0" contextfullscreen="1" lockedwheel="0" hideabout="0" speedwheel="1.5" dblclickfullscreen="0"/>
+    <transition zoomafteroutfov="20" zoomout="0" enabled="1" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomspeed="2" type="crossdissolve" zoomafterinfov="90" softedge="0" blendtime="1" zoomfov="20"/>
+    <autorotate enabled="1" nodedelay="0.00" useanimation="0" delay="4.00" returntohorizon="0.000" nodefilter="" speed="0.030" noderandom="1" startloaded="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedwheel="0" lockedkeyboard="0" lockedkeyboardzoom="0" invertcontrol="1" contextprojections="0" contextfullscreen="1" hideabout="0" speedwheel="1.5" dblclickfullscreen="0" rubberband="0" simulatemass="1" lockedmouse="0" sensitivity="10" invertwheel="1"/>
   </panorama>
   <masternode>
-    <userdata longitude="" copyright="" source="" comment="" description="" customnodeid="" datetime="" tags="" title="" author="" latitude="" heading="0" info="" nodeid="master"/>
+    <userdata author="" datetime="" info="" heading="0" description="" comment="" longitude="" nodeid="master" copyright="" source="" tags="" customnodeid="" title="" latitude=""/>
   </masternode>
 </tour>
