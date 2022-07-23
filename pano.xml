@@ -9,7 +9,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="0" pannorth="0">
-      <start pan="45" projection="4" fov="70" tilt="0"/>
+      <start pan="45" projection="4" fov="75" tilt="0"/>
       <flyin pan="0" projection="9" fov="170" tilt="-90"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max pan="360" scaletofit="1" fov="120" fovstereographic="270" tilt="90" fovfisheye="360"/>
@@ -33,7 +33,7 @@
     <transition zoomafterinfov="90" softedge="0" blendtime="1" zoomoutpause="1" blendcolor="0x000000" enabled="1" zoomfov="20" type="crossdissolve" zoomin="0" zoomspeed="2" zoomafteroutfov="20" zoomout="0"/>
     <autorotate nodefilter="" delay="4.00" noderandom="1" enabled="1" startloaded="1" returntohorizon="0.000" useanimation="0" speed="0.030" nodedelay="0.00"/>
     <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
-    <control simulatemass="1" invertcontrol="1" lockedmouse="0" sensitivity="8" rubberband="0" lockedkeyboardzoom="0" lockedkeyboard="0" invertwheel="0" contextprojections="0" contextfullscreen="1" lockedwheel="0" hideabout="0" speedwheel="1" dblclickfullscreen="0"/>
+    <control simulatemass="1" invertcontrol="1" lockedmouse="0" sensitivity="10" rubberband="0" lockedkeyboardzoom="0" lockedkeyboard="0" invertwheel="1" contextprojections="0" contextfullscreen="1" lockedwheel="0" hideabout="0" speedwheel="1.5" dblclickfullscreen="0"/>
   </panorama>
   <panorama id="node4">
     <input width="2048" leveltilesize="510" levelingpitch="0" levelbias="0.400" height="2048" levelingroll="0" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" overlap="1">
@@ -44,7 +44,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="0" pannorth="0">
-      <start pan="-46.84" projection="4" fov="75" tilt="2.44311e-14"/>
+      <start pan="-3.93796e-06" projection="4" fov="80" tilt="-5.52635e-07"/>
       <flyin pan="0" projection="9" fov="170" tilt="-90"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max pan="360" scaletofit="1" fov="120" fovstereographic="270" tilt="90" fovfisheye="360"/>
@@ -58,7 +58,7 @@
     <transition zoomafterinfov="90" softedge="0" blendtime="1" zoomoutpause="1" blendcolor="0x000000" enabled="1" zoomfov="20" type="crossdissolve" zoomin="0" zoomspeed="2" zoomafteroutfov="20" zoomout="0"/>
     <autorotate nodefilter="" delay="4.00" noderandom="1" enabled="1" startloaded="1" returntohorizon="0.000" useanimation="0" speed="0.030" nodedelay="0.00"/>
     <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
-    <control simulatemass="1" invertcontrol="1" lockedmouse="0" sensitivity="8" rubberband="0" lockedkeyboardzoom="0" lockedkeyboard="0" invertwheel="0" contextprojections="0" contextfullscreen="1" lockedwheel="0" hideabout="0" speedwheel="1" dblclickfullscreen="0"/>
+    <control simulatemass="1" invertcontrol="1" lockedmouse="0" sensitivity="10" rubberband="0" lockedkeyboardzoom="0" lockedkeyboard="0" invertwheel="1" contextprojections="0" contextfullscreen="1" lockedwheel="0" hideabout="0" speedwheel="1.5" dblclickfullscreen="0"/>
   </panorama>
   <panorama id="node5">
     <input width="2048" leveltilesize="510" levelingpitch="0" levelbias="0.400" height="2048" levelingroll="0" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" overlap="1">
@@ -69,7 +69,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="0" pannorth="0">
-      <start pan="0" projection="4" fov="75" tilt="0"/>
+      <start pan="0" projection="4" fov="80" tilt="0"/>
       <flyin pan="0" projection="9" fov="170" tilt="-90"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max pan="360" scaletofit="1" fov="120" fovstereographic="270" tilt="90" fovfisheye="360"/>
@@ -83,7 +83,7 @@
     <transition zoomafterinfov="90" softedge="0" blendtime="1" zoomoutpause="1" blendcolor="0x000000" enabled="1" zoomfov="20" type="crossdissolve" zoomin="0" zoomspeed="2" zoomafteroutfov="20" zoomout="0"/>
     <autorotate nodefilter="" delay="4.00" noderandom="1" enabled="1" startloaded="1" returntohorizon="0.000" useanimation="0" speed="0.030" nodedelay="0.00"/>
     <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
-    <control simulatemass="1" invertcontrol="1" lockedmouse="0" sensitivity="8" rubberband="0" lockedkeyboardzoom="0" lockedkeyboard="0" invertwheel="0" contextprojections="0" contextfullscreen="1" lockedwheel="0" hideabout="0" speedwheel="1" dblclickfullscreen="0"/>
+    <control simulatemass="1" invertcontrol="1" lockedmouse="0" sensitivity="10" rubberband="0" lockedkeyboardzoom="0" lockedkeyboard="0" invertwheel="1" contextprojections="0" contextfullscreen="1" lockedwheel="0" hideabout="0" speedwheel="1.5" dblclickfullscreen="0"/>
   </panorama>
   <panorama id="node6">
     <input width="2048" leveltilesize="510" levelingpitch="0" levelbias="0.400" height="2048" levelingroll="0" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" overlap="1">
@@ -94,7 +94,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="0" pannorth="0">
-      <start pan="-117" projection="4" fov="75" tilt="0"/>
+      <start pan="-117" projection="4" fov="80" tilt="0"/>
       <flyin pan="0" projection="9" fov="170" tilt="-90"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max pan="360" scaletofit="1" fov="120" fovstereographic="270" tilt="90" fovfisheye="360"/>
@@ -108,7 +108,7 @@
     <transition zoomafterinfov="90" softedge="0" blendtime="1" zoomoutpause="1" blendcolor="0x000000" enabled="1" zoomfov="20" type="crossdissolve" zoomin="0" zoomspeed="2" zoomafteroutfov="20" zoomout="0"/>
     <autorotate nodefilter="" delay="4.00" noderandom="1" enabled="1" startloaded="1" returntohorizon="0.000" useanimation="0" speed="0.030" nodedelay="0.00"/>
     <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
-    <control simulatemass="1" invertcontrol="1" lockedmouse="0" sensitivity="8" rubberband="0" lockedkeyboardzoom="0" lockedkeyboard="0" invertwheel="0" contextprojections="0" contextfullscreen="1" lockedwheel="0" hideabout="0" speedwheel="1" dblclickfullscreen="0"/>
+    <control simulatemass="1" invertcontrol="1" lockedmouse="0" sensitivity="10" rubberband="0" lockedkeyboardzoom="0" lockedkeyboard="0" invertwheel="1" contextprojections="0" contextfullscreen="1" lockedwheel="0" hideabout="0" speedwheel="1.5" dblclickfullscreen="0"/>
   </panorama>
   <panorama id="node7">
     <input width="2048" leveltilesize="510" levelingpitch="0" levelbias="0.400" height="2048" levelingroll="0" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" overlap="1">
@@ -119,7 +119,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="0" pannorth="0">
-      <start pan="138.5" projection="4" fov="75" tilt="0"/>
+      <start pan="138.5" projection="4" fov="80" tilt="0"/>
       <flyin pan="0" projection="9" fov="170" tilt="-90"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max pan="360" scaletofit="1" fov="120" fovstereographic="270" tilt="90" fovfisheye="360"/>
@@ -133,7 +133,7 @@
     <transition zoomafterinfov="90" softedge="0" blendtime="1" zoomoutpause="1" blendcolor="0x000000" enabled="1" zoomfov="20" type="crossdissolve" zoomin="0" zoomspeed="2" zoomafteroutfov="20" zoomout="0"/>
     <autorotate nodefilter="" delay="4.00" noderandom="1" enabled="1" startloaded="1" returntohorizon="0.000" useanimation="0" speed="0.030" nodedelay="0.00"/>
     <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
-    <control simulatemass="1" invertcontrol="1" lockedmouse="0" sensitivity="8" rubberband="0" lockedkeyboardzoom="0" lockedkeyboard="0" invertwheel="0" contextprojections="0" contextfullscreen="1" lockedwheel="0" hideabout="0" speedwheel="1" dblclickfullscreen="0"/>
+    <control simulatemass="1" invertcontrol="1" lockedmouse="0" sensitivity="10" rubberband="0" lockedkeyboardzoom="0" lockedkeyboard="0" invertwheel="1" contextprojections="0" contextfullscreen="1" lockedwheel="0" hideabout="0" speedwheel="1.5" dblclickfullscreen="0"/>
   </panorama>
   <masternode>
     <userdata longitude="" copyright="" source="" comment="" description="" customnodeid="" datetime="" tags="" title="" author="" latitude="" heading="0" info="" nodeid="master"/>
