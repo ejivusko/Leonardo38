@@ -14,7 +14,7 @@
       <min tilt="-90" fovpixel="2" pan="0"/>
       <max tilt="90" fov="120" fovstereographic="270" fovfisheye="360" pan="360" scaletofit="1"/>
     </view>
-    <userdata latitude="" nodeid="node3" copyright="" description="" longitude="" datetime="07/12/2022 11:01 AM" source="" comment="" heading="0" title="1st Florence" info="" customnodeid="" author="" tags="4. 2nd Milan"/>
+    <userdata latitude="" nodeid="node3" copyright="" description="最初のフィレンツェ The First Florence Room（c.1478-1482）&#xa;ダ・ヴィンチが、フィレンツェで14歳前後で入門し、約10年間修業をしていたアンドレア・デル・ベロッキオの工房から独立した時期にあたります。&#xa;この頃までにダ・ヴィンチの単独デビュー作となった『受胎告知』、『ジネブラ・デ・ベンチの肖像』、そして『カーネーションの聖母子』と『ブノワの聖母子』を含む3点の聖母子像を制作しています。またこの時期には、『聖ヒエロニムス』と、サンドナート・ア・スコペート修道院のための祭壇画『東方三博士の礼拝』の制作に着手していますが、両作品ともに完成することはありませんでした。&#xa;この頃は、ダ・ヴィンチが多方面の知識に開眼した時期でもあり、ダンテ・アリギエーリ『神曲』、オウィディウス『変身物語』、ガイウス・プリニウス・セクンドゥス『自然史』を読書していました。&#xa;" longitude="" datetime="07/12/2022 11:01 AM" source="" comment="" heading="0" title="1st Florence" info="" customnodeid="" author="" tags="4. 2nd Milan"/>
     <hotspots wordwrap="1" height="20" width="180">
       <label border="1" wordwrap="1" bordercolor="0x000000" background="1" height="20" textalpha="1" textcolor="0x000000" borderalpha="1" backgroundcolor="0xffffff" backgroundalpha="1" width="180" borderradius="1" enabled="1"/>
       <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0"/>
@@ -49,7 +49,7 @@
       <min tilt="-90" fovpixel="2" pan="0"/>
       <max tilt="90" fov="120" fovstereographic="270" fovfisheye="360" pan="360" scaletofit="1"/>
     </view>
-    <userdata latitude="" nodeid="node4" copyright="" description="" longitude="" datetime="07/03/2022 4:07 AM" source="" comment="" heading="0" title="1st Milan" info="" customnodeid="" author="" tags="2. 1st Milan"/>
+    <userdata latitude="" nodeid="node4" copyright="" description="最初のミラノ The First Milan Room（c. 1482-1499）&#xa;ダ・ヴィンチが、当時ミラノを統治していたスフォルツア家のルドヴィーコ・スフォルツア（在位1494-1499）をパトロンとして仕え、生涯で最も生産的な時期を過ごした時期です。1487年から手稿の執筆に力を入れるようになり、彼の関心事がこの後晩年まで記されることになります。10歳で弟子となった通称サライ（ジャン・ジャコモ・カプロッティ）と出会ったのも、この時期（1490年頃）です。また、未婚の実母カテリーナを1495年に亡くします。&#xa;サンフランチェスコグランデ聖堂のための祭壇画『岩窟の聖母』、『白豹を抱く貴婦人』、『ラ・ベル・フェロ二エール』を完成した他、サンタ・マリア・デレ・グラツィエ修道院食堂の壁画『最後の晩餐』を約4年かけて仕上げています。人体プロポーション研究の集大成ともいうべきドローイング『ウィトルウィウス的人体像』も描かれています。彫刻『スフォルツア騎馬像』にも着手したのですが、材料であるブロンズが大砲として徴用されることになり、塑像模型作成だけで断念しています。建築分野においても、スフォルツア家の天井装飾を手掛けたり、ミラノ大聖堂のデザインの依頼を受け、ドーム型のスケッチを残しています。&#xa;知識欲も旺盛で、アトランティコ手稿のリストによると、建築学から、天文学、修辞学、歴史学、文学、数学、医学、兵学、自然科学、高額、哲学、宗教学、獣医学までのジャンルを含む40冊以上の書籍を所有していました。&#xa;" longitude="" datetime="07/03/2022 4:07 AM" source="" comment="" heading="0" title="1st Milan" info="" customnodeid="" author="" tags="2. 1st Milan"/>
     <hotspots wordwrap="1" height="20" width="180">
       <label border="1" wordwrap="1" bordercolor="0x000000" background="1" height="20" textalpha="1" textcolor="0x000000" borderalpha="1" backgroundcolor="0xffffff" backgroundalpha="1" width="180" borderradius="1" enabled="1"/>
       <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0"/>
@@ -81,7 +81,7 @@
       <min tilt="-90" fovpixel="2" pan="0"/>
       <max tilt="90" fov="120" fovstereographic="270" fovfisheye="360" pan="360" scaletofit="1"/>
     </view>
-    <userdata latitude="" nodeid="node5" copyright="" description="" longitude="" datetime="07/07/2022 7:36 AM" source="" comment="" heading="0" title="2nd Florence" info="" customnodeid="" author="" tags="3. 2nd Florence"/>
+    <userdata latitude="" nodeid="node5" copyright="" description="2回目のフィレンツェ The Second Florence Room (c.1500-1508)&#xa;ミラノがフランス国王ルイ12世に占拠されたことにより、ダ・ヴィンチはマントヴァとヴェネチアに短期滞在の後、再びフィレンツェに戻ります。ダヴィンチの生涯で最も重要とも言えるフィレンツェ政庁からの委託作品『アンギアーリの戦い』をはじめ、サンティッシマ・アンヌンツイアータ聖堂の祭壇画として委託された『聖アンナと聖母子』、シルク商人フランシスコ・デル・ジョコンダから依頼されたとされる『モナ・リザ（ラ・ジョコンダ）』に着手します。後に、遺言執行人となった弟子フランチェスコ・メルツィには、この時期にミラノに出かけ滞在した折に（1505年頃）出会っています。1504年には、父セル・ピエロが亡くなっています。&#xa;ヴァレンティーノ公チェーザレ・ボルジアのために、チェゼーナでは緻密な地図制作を含めた軍事エンジニアとして活躍します。特にこの時期に熱心に研究されたひとつは、鳥の飛翔メカニズムでした。また、1496年にミラノで出会った数学者ルカ・パチョーリと同居したことで、幾何学への探求心は、一層深まっています。この時期に所有していた書物は、116タイトル（マドリード手稿II）を数えます。文学、数学、哲学への興味が一段と高まったことに加え、地理学、農学、心理学、相貌学などへの新たな関心を持っています。&#xa;" longitude="" datetime="07/07/2022 7:36 AM" source="" comment="" heading="0" title="2nd Florence" info="" customnodeid="" author="" tags="3. 2nd Florence"/>
     <hotspots wordwrap="1" height="20" width="180">
       <label border="1" wordwrap="1" bordercolor="0x000000" background="1" height="20" textalpha="1" textcolor="0x000000" borderalpha="1" backgroundcolor="0xffffff" backgroundalpha="1" width="180" borderradius="1" enabled="1"/>
       <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0"/>
@@ -113,7 +113,7 @@
       <min tilt="-90" fovpixel="2" pan="0"/>
       <max tilt="90" fov="120" fovstereographic="270" fovfisheye="360" pan="360" scaletofit="1"/>
     </view>
-    <userdata latitude="" nodeid="node6" copyright="" description="" longitude="" datetime="07/12/2022 11:01 AM" source="" comment="" heading="0" title="2nd Milan" info="" customnodeid="" author="" tags="4. 2nd Milan"/>
+    <userdata latitude="" nodeid="node6" copyright="" description="２回目のミラノ The Second Milan Room (c.1508-1513)&#xa;1506年にフランスのミラノ総督シャルル・ダンボワーズからの誘いを受け、『アンギアーリの戦い』を未完のままでフィレンツェを後にし、1508年にミラノの邸宅に落ち着いた時期にあたります。&#xa;ダ・ヴィンチの制作意欲は、限られた作品『聖アンナと聖母子』、『モナ・リザ（ラ・ジョコンダ）』、『洗礼者ヨハネ』の完成に向けられます。それらを極めるためか、この時期は人体解剖図制作に没頭しています。特に1510-1511年には、パヴィア大学解剖学教授マルカントニオ・デル・トッレとの共同作業で、20体を次々に解剖しています。また、貴族・傭兵隊長ジャン・ジャコモ・トリヴルツィオのための騎馬像を依頼され、そのためのスケッチが残されていますが、旧スイス連邦の侵攻によってあえなく中断されてしまいます。&#xa;所蔵書籍の数は増え続け、この時期は特に医学と宗教学の数に増加が目立ちます。また、手稿は膨大な量となり、弟子フランチェスコ・メルツィの手を借りながら、分類・加筆・書き直しを含めた作業を行っていました。&#xa;&#xa;" longitude="" datetime="07/12/2022 11:01 AM" source="" comment="" heading="0" title="2nd Milan" info="" customnodeid="" author="" tags="4. 2nd Milan"/>
     <hotspots wordwrap="1" height="20" width="180">
       <label border="1" wordwrap="1" bordercolor="0x000000" background="1" height="20" textalpha="1" textcolor="0x000000" borderalpha="1" backgroundcolor="0xffffff" backgroundalpha="1" width="180" borderradius="1" enabled="1"/>
       <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0"/>
@@ -142,7 +142,7 @@
       <min tilt="-90" fovpixel="2" pan="0"/>
       <max tilt="90" fov="120" fovstereographic="270" fovfisheye="360" pan="360" scaletofit="1"/>
     </view>
-    <userdata latitude="" nodeid="node7" copyright="" description="" longitude="" datetime="06/24/2022 11:59 PM" source="" comment="" heading="0" title="Amboise" info="" customnodeid="" author="" tags="4alt"/>
+    <userdata latitude="" nodeid="node7" copyright="" description="アンボワーズ The Amboise Room (1516-1519)&#xa;ジュリアーノ・メディチ（教皇レオ10世の弟）から招かれ、バチカン宮殿内に３年ほど(1513-1516)住みますが、彼の死によって、今度はフランス国王フランソワ１世の招聘に応じてフランスに向かい、宮廷アンボワーズ城近くのクルー城で最晩年を過ごすことになります。&#xa;枢機卿ルイージ・ダラコーナの秘書官をしていたアントニオ・デ・ベアーティスの旅行記によると、1517年10月10日にクルー城に訪れた際に、ダ・ヴィンチは『聖アンナと聖母子』、『洗礼者ヨハネ』、『モナ・リザ（ラ・ジョコンダ』が披露し、ダ・ヴィンチの科学研究、特に解剖学研究について説明したことが分かっています。またその際、手稿はジャンルごとにまとめられ、出版のために準備している印象だったことを伝えています。その一方、手稿に描き記すことは継続し、未完『聖アンナと聖母子』のための衣紋線、騎馬像、馬や小動物、大洪水などのドローイングをこの時期にも残しています。所蔵する書籍はゆるやかに増え、最終的には約200冊を所有していました。&#xa;1519年 4月 23日、遺言状を口述して作成し、弟子フランチェスコ・メルツィを遺言執行人に指名するとともに、公式な相続人として手稿、画材、機械装置などを譲り、その後まもなく1519年5月2日にダ・ヴィンチは67歳でこの世を去りました。&#xa;" longitude="" datetime="06/24/2022 11:59 PM" source="" comment="" heading="0" title="Amboise" info="" customnodeid="" author="" tags="4alt"/>
     <hotspots wordwrap="1" height="20" width="180">
       <label border="1" wordwrap="1" bordercolor="0x000000" background="1" height="20" textalpha="1" textcolor="0x000000" borderalpha="1" backgroundcolor="0xffffff" backgroundalpha="1" width="180" borderradius="1" enabled="1"/>
       <polystyle bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0"/>
