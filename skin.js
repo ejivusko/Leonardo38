@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 6.1.11/18043
-// Filename: A011aEXP.ggsk
-// Generated 2022-07-27T22:48:12
+// Filename: A011aEXP3.ggsk
+// Generated 2022-07-27T23:20:29
 
 function pano2vrSkin(player,base) {
 	player.addVariable('opt_hotspot_preview', 2, true);
@@ -3584,6 +3584,9 @@ function pano2vrSkin(player,base) {
 		}
 		me._info.onclick=function (e) {
 			player.setVariableValue('vis_userdata', true);
+			me._screentint.style[domTransition]='none';
+			me._screentint.style.visibility=(Number(me._screentint.style.opacity)>0||!me._screentint.style.opacity)?'inherit':'hidden';
+			me._screentint.ggVisible=true;
 		}
 		me._info.onmouseover=function (e) {
 			me._info__img.style.visibility='hidden';
@@ -6620,9 +6623,7 @@ function pano2vrSkin(player,base) {
 			me._temptint.style[domTransition]='none';
 			me._temptint.style.visibility='hidden';
 			me._temptint.ggVisible=false;
-			me._userdata.style[domTransition]='none';
-			me._userdata.style.visibility='hidden';
-			me._userdata.ggVisible=false;
+			player.setVariableValue('vis_userdata', false);
 		}
 		me._userdata.ggUpdatePosition=function (useTransition) {
 			if (useTransition==='undefined') {
@@ -7282,9 +7283,9 @@ function pano2vrSkin(player,base) {
 		}
 		me._image_popup.onclick=function (e) {
 			player.setVariableValue('vis_image_popup', false);
-			me.__360image.style[domTransition]='none';
-			me.__360image.style.visibility='hidden';
-			me.__360image.ggVisible=false;
+			me._screentint.style[domTransition]='none';
+			me._screentint.style.visibility='hidden';
+			me._screentint.ggVisible=false;
 		}
 		me._image_popup.ggUpdatePosition=function (useTransition) {
 			if (useTransition==='undefined') {
@@ -10285,7 +10286,7 @@ function pano2vrSkin(player,base) {
 		els=me._config_button__img=document.createElement('img');
 		els.className='ggskin ggskin_config_button';
 		hs='data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/4QHTaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wLwA8P3hwYWNrZXQgYmVnaW49Iu+7vyIgaWQ9Ilc1TTBNcENlaGlIenJlU3pOVGN6a2M5ZCI/Pgo8eDp4bXBtZXRhIHhtbG5zOng9ImFkb2JlOm5zOm1ldGEvIiB4OnhtcHRrPSJYTVAgQ29yZSA1LjYuMCI+CiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPgogIDxyZGY6RGVzY3JpcHRpb24gcmRmOmFib3V0PSIiCiAgICB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iCiAgIHhtcDpNZXRhZGF0YURhdGU9IjIwMj'+
-			'ItMDctMjdUMjI6NDg6MTIrMDM6MDAiCiAgIHhtcDpNb2RpZnlEYXRlPSIyMDIyLTA3LTI3VDIyOjQ4OjEyKzAzOjAwIgogICB4bXA6Q3JlYXRvclRvb2w9IlBhbm8yVlIgNi4xLjExIi8+CiA8L3JkZjpSREY+CjwveDp4bXBtZXRhPgo8P3hwYWNrZXQgZW5kPSJyIj8+/9sAQwD//////////////////////////////////////////////////////////////////////////////////////9sAQwH//////////////////////////////////////////////////////////////////////////////////////8AAEQgAHQAgAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYH'+
+			'ItMDctMjdUMjM6MjA6MjkrMDM6MDAiCiAgIHhtcDpNb2RpZnlEYXRlPSIyMDIyLTA3LTI3VDIzOjIwOjI5KzAzOjAwIgogICB4bXA6Q3JlYXRvclRvb2w9IlBhbm8yVlIgNi4xLjExIi8+CiA8L3JkZjpSREY+CjwveDp4bXBtZXRhPgo8P3hwYWNrZXQgZW5kPSJyIj8+/9sAQwD//////////////////////////////////////////////////////////////////////////////////////9sAQwH//////////////////////////////////////////////////////////////////////////////////////8AAEQgAHQAgAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYH'+
 			'CAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4'+
 			'iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8ASigUetABj3oo7UlACiikooAXtSUUUAf/2Q==';
 		els.setAttribute('src',hs);
@@ -14210,6 +14211,9 @@ function pano2vrSkin(player,base) {
 			skin._popup_image.ggSubElement.src='';
 			skin._popup_image.ggSubElement.src=skin._popup_image.ggText;
 			player.setVariableValue('vis_image_popup', true);
+			skin._screentint.style[domTransition]='none';
+			skin._screentint.style.visibility=(Number(skin._screentint.style.opacity)>0||!skin._screentint.style.opacity)?'inherit':'hidden';
+			skin._screentint.ggVisible=true;
 			skin.hotspotProxyClick(me.hotspot.id, me.hotspot.url);
 		}
 		me._ht_image.ondblclick=function (e) {
@@ -14737,6 +14741,9 @@ function pano2vrSkin(player,base) {
 			}
 			skin._info_text_body.ggTextDiv.scrollTop = 0;
 			player.setVariableValue('vis_info_popup', true);
+			skin._screentint.style[domTransition]='none';
+			skin._screentint.style.visibility=(Number(skin._screentint.style.opacity)>0||!skin._screentint.style.opacity)?'inherit':'hidden';
+			skin._screentint.ggVisible=true;
 			skin.hotspotProxyClick(me.hotspot.id, me.hotspot.url);
 		}
 		me._ht_info.ondblclick=function (e) {
