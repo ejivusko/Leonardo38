@@ -1,192 +1,192 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tour appversion="6.1.11" apprev="18043" start="node3">
+<tour apprev="18043" start="node3" appversion="6.1.11">
   <panorama id="node3">
-    <input height="2048" levelbias="0.400" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" leveltilesize="510" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000" overlap="1">
-      <level height="2048" predecode="0" width="2048" preload="0"/>
-      <level height="1024" predecode="0" width="1024" preload="0"/>
-      <level height="512" predecode="0" width="512" preload="0"/>
-      <level height="256" predecode="1" width="256" preload="1"/>
+    <input levelingroll="0" width="2048" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2048" levelbias="0.400" levelingpitch="0" leveltilesize="510" levelbiashidpi="1.000" overlap="1">
+      <level width="2048" height="2048" predecode="0" preload="0"/>
+      <level width="1024" height="1024" predecode="0" preload="0"/>
+      <level width="512" height="512" predecode="0" preload="0"/>
+      <level width="256" height="256" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="0" fovmode="0">
-      <start projection="4" fov="75" tilt="0" pan="45"/>
-      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <start tilt="0" fov="75" projection="4" pan="45"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
       <min tilt="-90" fovpixel="2" pan="0"/>
-      <max fov="120" fovstereographic="270" fovfisheye="360" scaletofit="1" tilt="90" pan="360"/>
+      <max tilt="90" fovstereographic="270" scaletofit="1" fov="120" pan="360" fovfisheye="360"/>
     </view>
-    <userdata datetime="07/12/2022 11:01 AM" tags="4. 2nd Milan" author="" heading="0" latitude="" comment="" info="" longitude="" customnodeid="" title="1st Florence" nodeid="node3" description="&lt;center>&lt;b>最初のフィレンツェ The First Florence Room（c.1478-1482）&lt;/b>&lt;/center>&lt;br>&#xa;ダ・ヴィンチが、フィレンツェで14歳前後で入門し、約10年間修業をしていたアンドレア・デル・ベロッキオの工房から独立した時期にあたります。&lt;br>&#xa;この頃までにダ・ヴィンチの単独デビュー作となった『受胎告知』、『ジネブラ・デ・ベンチの肖像』、そして『カーネーションの聖母子』と『ブノワの聖母子』を含む3点の聖母子像を制作しています。またこの時期には、『聖ヒエロニムス』と、サンドナート・ア・スコペート修道院のための祭壇画『東方三博士の礼拝』の制作に着手していますが、両作品ともに完成することはありませんでした。&lt;br>&#xa;この頃は、ダ・ヴィンチが多方面の知識に開眼した時期でもあり、ダンテ・アリギエーリ『神曲』、オウィディウス『変身物語』、ガイウス・プリニウス・セクンドゥス『自然史』を読書していました。" copyright="" source=""/>
-    <hotspots height="20" width="180" wordwrap="1">
-      <label background="1" bordercolor="0x000000" height="20" backgroundalpha="1" borderradius="1" backgroundcolor="0xffffff" width="180" enabled="1" border="1" wordwrap="1" textalpha="1" borderalpha="1" textcolor="0x000000"/>
-      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" borderalpha="1" handcursor="1"/>
-      <hotspot url="images/1p1.png" customimageheight="60" distance3D="342.902" target="" customimage="media/icon3.png" fov="10" skinid="ht_image" customimagewidth="60" use3D="0" id="Point03" tilt="-6.53" title="&lt;center>『聖ヒエロニムス』 Saint Jerome in the Wilderness、1482" description="" pan="-322.73"/>
-      <hotspot url="images/1p2.png" customimageheight="60" distance3D="342.902" target="" customimage="media/icon3.png" fov="10" skinid="ht_image" customimagewidth="60" use3D="0" id="Point03" tilt="-16.12" title="&lt;center>『東方三博士（マギ）の礼拝』 Adoration of the Magi、1481" description="" pan="-166.7"/>
-      <hotspot url="images/1d3.png" customimageheight="60" distance3D="342.902" target="" customimage="media/icon1.png" fov="10" skinid="ht_image" customimagewidth="60" use3D="0" id="Point01" tilt="-0.95" title="&lt;center>『戦士の胸像』 Bust of a Warrior、1475-1480" description="" pan="-80.29"/>
-      <hotspot url="images/1d1.png" customimageheight="60" distance3D="342.902" target="" customimage="media/icon1.png" fov="10" skinid="ht_image" customimagewidth="60" use3D="0" id="Point01" tilt="6" title="&lt;center>『アルノ渓谷の風景』 Landscape of the Arno Valley、1473" description="" pan="-55.32"/>
-      <hotspot url="" customimageheight="60" distance3D="342.902" target="" customimage="media/icon2.png" fov="10" skinid="ht_info" customimagewidth="60" use3D="0" id="Point04" tilt="-20.96" title="" description="&#xa;" pan="-315.51"/>
-      <hotspot url="images/1d2.png" customimageheight="60" distance3D="342.902" target="" customimage="media/icon1.png" fov="10" skinid="ht_image" customimagewidth="60" use3D="0" id="Point01" tilt="-3.32" title="&lt;center>『大砲』 Artillery、1480" description="" pan="-70.7"/>
-      <hotspot url="" customimageheight="60" distance3D="342.902" target="" customimage="media/icon2.png" fov="10" skinid="ht_info" customimagewidth="60" use3D="0" id="Point04" tilt="-8.93" title="" description="&#xa;" pan="-33.15"/>
-      <hotspot url="images/r1Xa.png" customimageheight="60" distance3D="342.902" target="" customimage="media/icon2.png" fov="10" skinid="ht_image" customimagewidth="60" use3D="0" id="Point04" tilt="-8.23" title="&lt;center>ダンテ・アリギエーリ、『神曲』、1308-1320&#xa;Dante Alighieri, Divina commedia (Divine Comedy)" description="" pan="-20.48"/>
+    <userdata description="&lt;center>&lt;b>最初のフィレンツェ The First Florence Room（c.1478-1482）&lt;/b>&lt;/center>&lt;br>&#xa;ダ・ヴィンチが、フィレンツェで14歳前後で入門し、約10年間修業をしていたアンドレア・デル・ベロッキオの工房から独立した時期にあたります。&lt;br>&#xa;この頃までにダ・ヴィンチの単独デビュー作となった『受胎告知』、『ジネブラ・デ・ベンチの肖像』、そして『カーネーションの聖母子』と『ブノワの聖母子』を含む3点の聖母子像を制作しています。またこの時期には、『聖ヒエロニムス』と、サンドナート・ア・スコペート修道院のための祭壇画『東方三博士の礼拝』の制作に着手していますが、両作品ともに完成することはありませんでした。&lt;br>&#xa;この頃は、ダ・ヴィンチが多方面の知識に開眼した時期でもあり、ダンテ・アリギエーリ『神曲』、オウィディウス『変身物語』、ガイウス・プリニウス・セクンドゥス『自然史』を読書していました。" copyright="" title="1st Florence" heading="0" datetime="07/12/2022 11:01 AM" longitude="" comment="" customnodeid="" info="" latitude="" author="" source="" tags="4. 2nd Milan" nodeid="node3"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundalpha="1" width="180" height="20" textcolor="0x000000" textalpha="1" bordercolor="0x000000" wordwrap="1" border="1" enabled="1" background="1" backgroundcolor="0xffffff" borderalpha="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot description="" customimagewidth="60" tilt="-6.53" title="&lt;center>『聖ヒエロニムス』 Saint Jerome in the Wilderness、1482" id="Point03" skinid="ht_image" customimage="media/icon3.png" url="images/1p1.png" customimageheight="60" fov="10" distance3D="342.902" target="" use3D="0" pan="-322.73"/>
+      <hotspot description="" customimagewidth="60" tilt="-16.12" title="&lt;center>『東方三博士（マギ）の礼拝』 Adoration of the Magi、1481" id="Point03" skinid="ht_image" customimage="media/icon3.png" url="images/1p2.png" customimageheight="60" fov="10" distance3D="342.902" target="" use3D="0" pan="-166.7"/>
+      <hotspot description="" customimagewidth="60" tilt="-0.95" title="&lt;center>『戦士の胸像』 Bust of a Warrior、1475-1480" id="Point01" skinid="ht_image" customimage="media/icon1.png" url="images/1d3.png" customimageheight="60" fov="10" distance3D="342.902" target="" use3D="0" pan="-80.29"/>
+      <hotspot description="" customimagewidth="60" tilt="6" title="&lt;center>『アルノ渓谷の風景』 Landscape of the Arno Valley、1473" id="Point01" skinid="ht_image" customimage="media/icon1.png" url="images/1d1.png" customimageheight="60" fov="10" distance3D="342.902" target="" use3D="0" pan="-55.32"/>
+      <hotspot description="" customimagewidth="60" tilt="-20.88" title="ガイウス・プリニウス・セクンドウス、『博物誌』、c.77&#xa;Gaius Plinius Secundus (Pliny the Elder), Storia naturale (Natural History)" id="Point04" skinid="ht_image" customimage="media/icon2.png" url="images/r1xC.png" customimageheight="60" fov="10" distance3D="342.902" target="" use3D="0" pan="-315.53"/>
+      <hotspot description="" customimagewidth="60" tilt="-3.32" title="&lt;center>『大砲』 Artillery、1480" id="Point01" skinid="ht_image" customimage="media/icon1.png" url="images/1d2.png" customimageheight="60" fov="10" distance3D="342.902" target="" use3D="0" pan="-70.7"/>
+      <hotspot description="" customimagewidth="60" tilt="-8.93" title="オウディウス、『変身物語』、 8&#xa;Publius Ovidius Naso (Ovid), Metamorfosi (Metamorphoses, Transformations)" id="Point04" skinid="ht_image" customimage="media/icon2.png" url="images/r1xB.png" customimageheight="60" fov="10" distance3D="342.902" target="" use3D="0" pan="-33.15"/>
+      <hotspot description="" customimagewidth="60" tilt="-8.23" title="&lt;center>ダンテ・アリギエーリ、『神曲』、1308-1320&#xa;Dante Alighieri, Divina commedia (Divine Comedy)" id="Point04" skinid="ht_image" customimage="media/icon2.png" url="images/r1Xa.png" customimageheight="60" fov="10" distance3D="342.902" target="" use3D="0" pan="-20.48"/>
     </hotspots>
     <media/>
-    <transition zoomfov="20" type="crossdissolve" zoomspeed="2" blendcolor="0x000000" softedge="0" zoomout="0" enabled="1" zoomafterinfov="90" zoomoutpause="1" zoomin="0" blendtime="1" zoomafteroutfov="20"/>
-    <autorotate startloaded="1" noderandom="1" enabled="1" delay="4.00" speed="0.030" returntohorizon="0.000" nodedelay="0.00" useanimation="0" nodefilter=""/>
-    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control lockedkeyboard="0" rubberband="0" invertcontrol="1" lockedkeyboardzoom="0" invertwheel="1" contextprojections="0" lockedmouse="0" lockedwheel="0" dblclickfullscreen="0" simulatemass="1" speedwheel="1.5" sensitivity="10" contextfullscreen="1" hideabout="0"/>
+    <transition type="crossdissolve" zoomfov="20" zoomafteroutfov="20" zoomout="0" zoomin="0" zoomoutpause="1" zoomspeed="2" enabled="1" softedge="0" zoomafterinfov="90" blendtime="1" blendcolor="0x000000"/>
+    <autorotate startloaded="1" nodedelay="0.00" delay="4.00" useanimation="0" returntohorizon="0.000" noderandom="1" speed="0.030" enabled="1" nodefilter=""/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" lockedkeyboardzoom="0" invertcontrol="1" hideabout="0" dblclickfullscreen="0" contextfullscreen="1" sensitivity="10" rubberband="0" lockedmouse="0" invertwheel="1" lockedwheel="0" contextprojections="0" simulatemass="1" speedwheel="1.5"/>
   </panorama>
   <panorama id="node4">
-    <input height="2048" levelbias="0.400" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" leveltilesize="510" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000" overlap="1">
-      <level height="2048" predecode="0" width="2048" preload="0"/>
-      <level height="1024" predecode="0" width="1024" preload="0"/>
-      <level height="512" predecode="0" width="512" preload="0"/>
-      <level height="256" predecode="1" width="256" preload="1"/>
+    <input levelingroll="0" width="2048" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2048" levelbias="0.400" levelingpitch="0" leveltilesize="510" levelbiashidpi="1.000" overlap="1">
+      <level width="2048" height="2048" predecode="0" preload="0"/>
+      <level width="1024" height="1024" predecode="0" preload="0"/>
+      <level width="512" height="512" predecode="0" preload="0"/>
+      <level width="256" height="256" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="0" fovmode="0">
-      <start projection="4" fov="80" tilt="0" pan="180"/>
-      <flyin projection="4" fov="80" tilt="0" pan="180"/>
+      <start tilt="0" fov="80" projection="4" pan="180"/>
+      <flyin tilt="0" fov="80" projection="4" pan="180"/>
       <min tilt="-90" fovpixel="2" pan="0"/>
-      <max fov="120" fovstereographic="270" fovfisheye="360" scaletofit="1" tilt="90" pan="360"/>
+      <max tilt="90" fovstereographic="270" scaletofit="1" fov="120" pan="360" fovfisheye="360"/>
     </view>
-    <userdata datetime="07/03/2022 4:07 AM" tags="2. 1st Milan" author="" heading="0" latitude="" comment="" info="" longitude="" customnodeid="" title="1st Milan" nodeid="node4" description="&lt;center>&lt;b>最初のミラノ The First Milan Room（c. 1482-1499）&lt;/b>&lt;/center>&lt;br>&#xa;ダ・ヴィンチが、当時ミラノを統治していたスフォルツア家のルドヴィーコ・スフォルツア（在位1494-1499）をパトロンとして仕え、生涯で最も生産的な時期を過ごした時期です。1487年から手稿の執筆に力を入れるようになり、彼の関心事がこの後晩年まで記されることになります。10歳で弟子となった通称サライ（ジャン・ジャコモ・カプロッティ）と出会ったのも、この時期（1490年頃）です。また、未婚の実母カテリーナを1495年に亡くします。&lt;br>&#xa;サンフランチェスコグランデ聖堂のための祭壇画『岩窟の聖母』、『白豹を抱く貴婦人』、『ラ・ベル・フェロ二エール』を完成した他、サンタ・マリア・デレ・グラツィエ修道院食堂の壁画『最後の晩餐』を約4年かけて仕上げています。人体プロポーション研究の集大成ともいうべきドローイング『ウィトルウィウス的人体像』も描かれています。彫刻『スフォルツア騎馬像』にも着手したのですが、材料であるブロンズが大砲として徴用されることになり、塑像模型作成だけで断念しています。建築分野においても、スフォルツア家の天井装飾を手掛けたり、ミラノ大聖堂のデザインの依頼を受け、ドーム型のスケッチを残しています。&lt;br>&#xa;知識欲も旺盛で、アトランティコ手稿のリストによると、建築学から、天文学、修辞学、歴史学、文学、数学、医学、兵学、自然科学、高額、哲学、宗教学、獣医学までのジャンルを含む40冊以上の書籍を所有していました。&#xa;" copyright="" source=""/>
-    <hotspots height="20" width="180" wordwrap="1">
-      <label background="1" bordercolor="0x000000" height="20" backgroundalpha="1" borderradius="1" backgroundcolor="0xffffff" width="180" enabled="1" border="1" wordwrap="1" textalpha="1" borderalpha="1" textcolor="0x000000"/>
-      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" borderalpha="1" handcursor="1"/>
-      <hotspot url="images/2a.png" customimageheight="60" distance3D="342.902" target="" customimage="media/icon3.png" fov="10" skinid="ht_image" customimagewidth="60" use3D="0" id="Point03" tilt="-10.06" title="&lt;center>『ラ・ベル・フェロ二エール』 La Belle Ferronnière、1490" description="" pan="-156.82"/>
-      <hotspot url="images/2c.png" customimageheight="60" distance3D="342.902" target="" customimage="media/icon1.png" fov="10" skinid="ht_image" customimagewidth="60" use3D="0" id="Point01" tilt="2.98" title="&lt;center>『最後の晩餐習作』 Study for the Last Supper、1494" description="" pan="-302.81"/>
-      <hotspot url="images/2f.png" customimageheight="60" distance3D="342.902" target="" customimage="media/icon1.png" fov="10" skinid="ht_image" customimagewidth="60" use3D="0" id="Point01" tilt="2.74" title="&lt;center>『ミラノ聖堂ドームデザイン』 Studies of Central Plan Buildings、1487-1489" description="" pan="-307.8"/>
-      <hotspot url="images/2b.png" customimageheight="60" distance3D="342.902" target="" customimage="media/icon1.png" fov="10" skinid="ht_image" customimagewidth="60" use3D="0" id="Point01" tilt="6.2" title="&lt;center>『ウィトルウィウス的人体像』  Vitruvian Man、1490" description="" pan="-84.38"/>
-      <hotspot url="images/2d.png" customimageheight="60" distance3D="342.902" target="" customimage="media/icon1.png" fov="10" skinid="ht_image" customimagewidth="60" use3D="0" id="Point01" tilt="7.87" title="&lt;center>『馬の習作』 Study of Horses、1490" description="" pan="-92.06"/>
-      <hotspot url="images/2e.png" customimageheight="60" distance3D="342.902" target="" customimage="media/icon1.png" fov="10" skinid="ht_image" customimagewidth="60" use3D="0" id="Point01" tilt="8.8" title="&lt;center>『フライングマシーン』 Design for a Flying Machine、1493" description="" pan="-101.7"/>
-      <hotspot url="images/2g.png" customimageheight="60" distance3D="342.902" target="" customimage="media/icon4.png" fov="10" skinid="ht_image" customimagewidth="60" use3D="0" id="Point01" tilt="-4.51" title="&lt;center>『機械式騎士』Mechanical Knight、1495" description="" pan="-175.09"/>
-      <hotspot url="" customimageheight="60" distance3D="342.902" target="" customimage="media/icon2.png" fov="10" skinid="ht_info" customimagewidth="60" use3D="0" id="Point04" tilt="-46.33" title="" description="" pan="-52.28"/>
-      <hotspot url="" customimageheight="60" distance3D="342.902" target="" customimage="media/icon2.png" fov="10" skinid="ht_info" customimagewidth="60" use3D="0" id="Point04" tilt="-30.59" title="" description="" pan="-97.85"/>
-      <hotspot url="" customimageheight="60" distance3D="342.902" target="" customimage="media/icon2.png" fov="10" skinid="ht_info" customimagewidth="60" use3D="0" id="Point04" tilt="-42.38" title="" description="" pan="-104.96"/>
-      <hotspot url="" customimageheight="60" distance3D="342.902" target="" customimage="media/icon2.png" fov="10" skinid="ht_info" customimagewidth="60" use3D="0" id="Point04" tilt="-54.02" title="" description="" pan="-120.55"/>
-      <hotspot url="" customimageheight="60" distance3D="342.902" target="" customimage="media/icon2.png" fov="10" skinid="ht_info" customimagewidth="60" use3D="0" id="Point04" tilt="-39.3" title="" description="" pan="-157.06"/>
-      <hotspot url="" customimageheight="60" distance3D="342.902" target="" customimage="media/icon2.png" fov="10" skinid="ht_info" customimagewidth="60" use3D="0" id="Point04" tilt="3.01" title="" description="" pan="-326.85"/>
-      <hotspot url="" customimageheight="60" distance3D="342.902" target="" customimage="media/icon2.png" fov="10" skinid="ht_info" customimagewidth="60" use3D="0" id="Point04" tilt="8.23" title="" description="" pan="-331.65"/>
-      <hotspot url="" customimageheight="60" distance3D="342.902" target="" customimage="media/icon2.png" fov="10" skinid="ht_info" customimagewidth="60" use3D="0" id="Point04" tilt="2.97" title="" description="" pan="-21.93"/>
-      <hotspot url="" customimageheight="60" distance3D="342.902" target="" customimage="media/icon2.png" fov="10" skinid="ht_info" customimagewidth="60" use3D="0" id="Point04" tilt="8.06" title="" description="" pan="-28.9"/>
-      <hotspot url="" customimageheight="60" distance3D="342.902" target="" customimage="media/icon2.png" fov="10" skinid="ht_info" customimagewidth="60" use3D="0" id="Point04" tilt="-1.76" title="" description="" pan="-31.66"/>
+    <userdata description="&lt;center>&lt;b>最初のミラノ The First Milan Room（c. 1482-1499）&lt;/b>&lt;/center>&lt;br>&#xa;ダ・ヴィンチが、当時ミラノを統治していたスフォルツア家のルドヴィーコ・スフォルツア（在位1494-1499）をパトロンとして仕え、生涯で最も生産的な時期を過ごした時期です。1487年から手稿の執筆に力を入れるようになり、彼の関心事がこの後晩年まで記されることになります。10歳で弟子となった通称サライ（ジャン・ジャコモ・カプロッティ）と出会ったのも、この時期（1490年頃）です。また、未婚の実母カテリーナを1495年に亡くします。&lt;br>&#xa;サンフランチェスコグランデ聖堂のための祭壇画『岩窟の聖母』、『白豹を抱く貴婦人』、『ラ・ベル・フェロ二エール』を完成した他、サンタ・マリア・デレ・グラツィエ修道院食堂の壁画『最後の晩餐』を約4年かけて仕上げています。人体プロポーション研究の集大成ともいうべきドローイング『ウィトルウィウス的人体像』も描かれています。彫刻『スフォルツア騎馬像』にも着手したのですが、材料であるブロンズが大砲として徴用されることになり、塑像模型作成だけで断念しています。建築分野においても、スフォルツア家の天井装飾を手掛けたり、ミラノ大聖堂のデザインの依頼を受け、ドーム型のスケッチを残しています。&lt;br>&#xa;知識欲も旺盛で、アトランティコ手稿のリストによると、建築学から、天文学、修辞学、歴史学、文学、数学、医学、兵学、自然科学、高額、哲学、宗教学、獣医学までのジャンルを含む40冊以上の書籍を所有していました。&#xa;" copyright="" title="1st Milan" heading="0" datetime="07/03/2022 4:07 AM" longitude="" comment="" customnodeid="" info="" latitude="" author="" source="" tags="2. 1st Milan" nodeid="node4"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundalpha="1" width="180" height="20" textcolor="0x000000" textalpha="1" bordercolor="0x000000" wordwrap="1" border="1" enabled="1" background="1" backgroundcolor="0xffffff" borderalpha="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot description="" customimagewidth="60" tilt="-10.06" title="&lt;center>『ラ・ベル・フェロ二エール』 La Belle Ferronnière、1490" id="Point03" skinid="ht_image" customimage="media/icon3.png" url="images/2a.png" customimageheight="60" fov="10" distance3D="342.902" target="" use3D="0" pan="-156.82"/>
+      <hotspot description="" customimagewidth="60" tilt="2.98" title="&lt;center>『最後の晩餐習作』 Study for the Last Supper、1494" id="Point01" skinid="ht_image" customimage="media/icon1.png" url="images/2c.png" customimageheight="60" fov="10" distance3D="342.902" target="" use3D="0" pan="-302.81"/>
+      <hotspot description="" customimagewidth="60" tilt="2.74" title="&lt;center>『ミラノ聖堂ドームデザイン』 Studies of Central Plan Buildings、1487-1489" id="Point01" skinid="ht_image" customimage="media/icon1.png" url="images/2f.png" customimageheight="60" fov="10" distance3D="342.902" target="" use3D="0" pan="-307.8"/>
+      <hotspot description="" customimagewidth="60" tilt="6.2" title="&lt;center>『ウィトルウィウス的人体像』  Vitruvian Man、1490" id="Point01" skinid="ht_image" customimage="media/icon1.png" url="images/2b.png" customimageheight="60" fov="10" distance3D="342.902" target="" use3D="0" pan="-84.38"/>
+      <hotspot description="" customimagewidth="60" tilt="7.87" title="&lt;center>『馬の習作』 Study of Horses、1490" id="Point01" skinid="ht_image" customimage="media/icon1.png" url="images/2d.png" customimageheight="60" fov="10" distance3D="342.902" target="" use3D="0" pan="-92.06"/>
+      <hotspot description="" customimagewidth="60" tilt="8.8" title="&lt;center>『フライングマシーン』 Design for a Flying Machine、1493" id="Point01" skinid="ht_image" customimage="media/icon1.png" url="images/2e.png" customimageheight="60" fov="10" distance3D="342.902" target="" use3D="0" pan="-101.7"/>
+      <hotspot description="" customimagewidth="60" tilt="-4.51" title="&lt;center>『機械式騎士』Mechanical Knight、1495" id="Point01" skinid="ht_image" customimage="media/icon4.png" url="images/2g.png" customimageheight="60" fov="10" distance3D="342.902" target="" use3D="0" pan="-175.09"/>
+      <hotspot description="" customimagewidth="60" tilt="-46.33" title="レオン・バッティスタ・アルベルティ、『建築論』、1443-1452&#xa;Leon Battista Alberti, De re aedificatoria (On the Art of Building) " id="Point04" skinid="ht_image" customimage="media/icon2.png" url="images/r2xA.png" customimageheight="60" fov="10" distance3D="342.902" target="" use3D="0" pan="-52.28"/>
+      <hotspot description="" customimagewidth="60" tilt="-30.59" title="『イソップ寓話』、620-564 BCE&#xa;Aesopus (Aesop), Fabule (Fables)" id="Point04" skinid="ht_image" customimage="media/icon2.png" url="images/r2xB.png" customimageheight="60" fov="10" distance3D="342.902" target="" use3D="0" pan="-97.85"/>
+      <hotspot description="" customimagewidth="60" tilt="-42.38" title="ジョヴァンニ・ボッカッチョ、『デカメロン』、1348-1353 &#xa;Giovanni Boccaccio, Decamerone (Decameron, Ten Days)" id="Point04" skinid="ht_image" customimage="media/icon2.png" url="images/r2xC.png" customimageheight="60" fov="10" distance3D="342.902" target="" use3D="0" pan="-104.96"/>
+      <hotspot description="" customimagewidth="60" tilt="-54.02" title="ガレノス（129-c.216）、『ガレノス医学全集』&#xa;Claudius Galenus (Galen), Opera (Works)" id="Point04" skinid="ht_image" customimage="media/icon2.png" url="images/r2xD.png" customimageheight="60" fov="10" distance3D="342.902" target="" use3D="0" pan="-120.55"/>
+      <hotspot description="" customimagewidth="60" tilt="-39.3" title="ロベルト・ヴァルトゥリオ、「軍事論」、c.1460&#xa;Roberto Valturio, De re militari (On the Military Arts)" id="Point04" skinid="ht_image" customimage="media/icon2.png" url="images/r2xE.png" customimageheight="60" fov="10" distance3D="342.902" target="" use3D="0" pan="-157.06"/>
+      <hotspot description="" customimagewidth="60" tilt="3.01" title="アルベルトゥス・マグヌス（1200-1280）、『凡人のための哲学』&#xa;Albertus Magnus, Philosophia pauperum (Philosophy for the Simple)" id="Point04" skinid="ht_image" customimage="media/icon2.png" url="images/r2xF.png" customimageheight="60" fov="10" distance3D="342.902" target="" use3D="0" pan="-326.85"/>
+      <hotspot description="" customimagewidth="60" tilt="8.24" title="ニッコロ・ペロッティ、『初等ラテン語文法』、1464-1468&#xa;Niccolo Perotti, Rudimenta Grammatices (Elementary Grammar)" id="Point04" skinid="ht_image" customimage="media/icon2.png" url="images/r2xG.png" customimageheight="60" fov="10" distance3D="342.902" target="" use3D="0" pan="-331.79"/>
+      <hotspot description="" customimagewidth="60" tilt="2.97" title="マルシリオ・フィチーノ、『プラトニック神学』、1469-1474&#xa;Marsilio Ficino, Platonica theologia  (Platonic Theology)" id="Point04" skinid="ht_image" customimage="media/icon2.png" url="images/r2xH.png" customimageheight="60" fov="10" distance3D="342.902" target="" use3D="0" pan="-21.93"/>
+      <hotspot description="" customimagewidth="60" tilt="8.21" title="ウィテロ、『光学』、c.1274&#xa;Witelo (Vitelo), Opus magnae perspective Vitellionis (Great Work on Perspective) " id="Point04" skinid="ht_image" customimage="media/icon2.png" url="images/r2xI.png" customimageheight="60" fov="10" distance3D="342.902" target="" use3D="0" pan="-28.9"/>
+      <hotspot description="" customimagewidth="60" tilt="-1.76" title="マイケル・スコット、『顔相学』、c.1274&#xa;Michael Scot, Liber physiognomiae (Physiognomy)" id="Point04" skinid="ht_image" customimage="media/icon2.png" url="images/r2xJ.png" customimageheight="60" fov="10" distance3D="342.902" target="" use3D="0" pan="-31.66"/>
     </hotspots>
     <media/>
-    <transition zoomfov="20" type="crossdissolve" zoomspeed="2" blendcolor="0x000000" softedge="0" zoomout="0" enabled="1" zoomafterinfov="90" zoomoutpause="1" zoomin="0" blendtime="1" zoomafteroutfov="20"/>
-    <autorotate startloaded="1" noderandom="1" enabled="1" delay="4.00" speed="0.030" returntohorizon="0.000" nodedelay="0.00" useanimation="0" nodefilter=""/>
-    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control lockedkeyboard="0" rubberband="0" invertcontrol="1" lockedkeyboardzoom="0" invertwheel="1" contextprojections="0" lockedmouse="0" lockedwheel="0" dblclickfullscreen="0" simulatemass="1" speedwheel="1.5" sensitivity="10" contextfullscreen="1" hideabout="0"/>
+    <transition type="crossdissolve" zoomfov="20" zoomafteroutfov="20" zoomout="0" zoomin="0" zoomoutpause="1" zoomspeed="2" enabled="1" softedge="0" zoomafterinfov="90" blendtime="1" blendcolor="0x000000"/>
+    <autorotate startloaded="1" nodedelay="0.00" delay="4.00" useanimation="0" returntohorizon="0.000" noderandom="1" speed="0.030" enabled="1" nodefilter=""/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" lockedkeyboardzoom="0" invertcontrol="1" hideabout="0" dblclickfullscreen="0" contextfullscreen="1" sensitivity="10" rubberband="0" lockedmouse="0" invertwheel="1" lockedwheel="0" contextprojections="0" simulatemass="1" speedwheel="1.5"/>
   </panorama>
   <panorama id="node5">
-    <input height="2048" levelbias="0.400" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" leveltilesize="510" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000" overlap="1">
-      <level height="2048" predecode="0" width="2048" preload="0"/>
-      <level height="1024" predecode="0" width="1024" preload="0"/>
-      <level height="512" predecode="0" width="512" preload="0"/>
-      <level height="256" predecode="1" width="256" preload="1"/>
+    <input levelingroll="0" width="2048" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2048" levelbias="0.400" levelingpitch="0" leveltilesize="510" levelbiashidpi="1.000" overlap="1">
+      <level width="2048" height="2048" predecode="0" preload="0"/>
+      <level width="1024" height="1024" predecode="0" preload="0"/>
+      <level width="512" height="512" predecode="0" preload="0"/>
+      <level width="256" height="256" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="0" fovmode="0">
-      <start projection="4" fov="80" tilt="0" pan="180"/>
-      <flyin projection="4" fov="80" tilt="0" pan="180"/>
+      <start tilt="0" fov="80" projection="4" pan="180"/>
+      <flyin tilt="0" fov="80" projection="4" pan="180"/>
       <min tilt="-90" fovpixel="2" pan="0"/>
-      <max fov="120" fovstereographic="270" fovfisheye="360" scaletofit="1" tilt="90" pan="360"/>
+      <max tilt="90" fovstereographic="270" scaletofit="1" fov="120" pan="360" fovfisheye="360"/>
     </view>
-    <userdata datetime="07/07/2022 7:36 AM" tags="3. 2nd Florence" author="" heading="0" latitude="" comment="" info="" longitude="" customnodeid="" title="2nd Florence" nodeid="node5" description="&lt;center>&lt;b>2回目のフィレンツェ The Second Florence Room (c.1500-1508)&lt;/b>&lt;/center>&lt;br>&#xa;ミラノがフランス国王ルイ12世に占拠されたことにより、ダ・ヴィンチはマントヴァとヴェネチアに短期滞在の後、再びフィレンツェに戻ります。ダヴィンチの生涯で最も重要とも言えるフィレンツェ政庁からの委託作品『アンギアーリの戦い』をはじめ、サンティッシマ・アンヌンツイアータ聖堂の祭壇画として委託された『聖アンナと聖母子』、シルク商人フランシスコ・デル・ジョコンダから依頼されたとされる『モナ・リザ（ラ・ジョコンダ）』に着手します。後に、遺言執行人となった弟子フランチェスコ・メルツィには、この時期にミラノに出かけ滞在した折に（1505年頃）出会っています。1504年には、父セル・ピエロが亡くなっています。&lt;br>&#xa;ヴァレンティーノ公チェーザレ・ボルジアのために、チェゼーナでは緻密な地図制作を含めた軍事エンジニアとして活躍します。特にこの時期に熱心に研究されたひとつは、鳥の飛翔メカニズムでした。また、1496年にミラノで出会った数学者ルカ・パチョーリと同居したことで、幾何学への探求心は、一層深まっています。この時期に所有していた書物は、116タイトル（マドリード手稿II）を数えます。文学、数学、哲学への興味が一段と高まったことに加え、地理学、農学、心理学、相貌学などへの新たな関心を持っています。&lt;br>" copyright="" source=""/>
-    <hotspots height="20" width="180" wordwrap="1">
-      <label background="1" bordercolor="0x000000" height="20" backgroundalpha="1" borderradius="1" backgroundcolor="0xffffff" width="180" enabled="1" border="1" wordwrap="1" textalpha="1" borderalpha="1" textcolor="0x000000"/>
-      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" borderalpha="1" handcursor="1"/>
-      <hotspot url="images/3c.png" customimageheight="60" distance3D="342.902" target="" customimage="media/icon3.png" fov="10" skinid="ht_image" customimagewidth="60" use3D="0" id="Point03" tilt="-10.87" title="&lt;center> 『モナ・リザ（ラ・ジョコンダ）』 Mona Lisa (La Joconde)、1503-1516" description="" pan="-328.23"/>
-      <hotspot url="images/3b.png" customimageheight="60" distance3D="342.902" target="" customimage="media/icon3.png" fov="10" skinid="ht_image" customimagewidth="60" use3D="0" id="Point03" tilt="-7.69" title="&lt;center>『聖アンナと聖母子、洗礼者ヨハネ』 The Virgin and Child with Saint Anne and the Infant Saint John the Baptist、1500" description="" pan="-158.8"/>
-      <hotspot url="images/3BIRDS.png" customimageheight="60" distance3D="342.902" target="" customimage="media/icon1.png" fov="10" skinid="ht_image" customimagewidth="60" use3D="0" id="Point01" tilt="0.1" title="&lt;center>『鳥の飛翔に関する手稿』 Study on the Flight of Birds、1505" description="" pan="-212.59"/>
-      <hotspot url="images/3LEDA.png" customimageheight="60" distance3D="342.902" target="" customimage="media/icon1.png" fov="10" skinid="ht_image" customimagewidth="60" use3D="0" id="Point01" tilt="5.55" title="&lt;center>『レダの頭部』 Head of Leda、1503-1506" description="" pan="-212.27"/>
-      <hotspot url="images/3MAP.png" customimageheight="60" distance3D="342.902" target="" customimage="media/icon1.png" fov="10" skinid="ht_image" customimagewidth="60" use3D="0" id="Point01" tilt="-1.01" title="&lt;center>『フォイアーノ・デッラ・キアーナの地図』 Map of the Valdichiana、1503-1506" description="" pan="-206.4"/>
-      <hotspot url="images/3ALL.png" customimageheight="60" distance3D="342.902" target="" customimage="media/icon1.png" fov="10" skinid="ht_image" customimagewidth="60" use3D="0" id="Point01" tilt="4.79" title="&lt;center>『アンギアーリの戦い習作』 Studies for the Battle of Anghiari、1503-1505" description="" pan="-202.2"/>
-      <hotspot url="images/3h.png" customimageheight="60" distance3D="342.902" target="" customimage="media/icon5.png" fov="10" skinid="ht_image" customimagewidth="60" use3D="0" id="Point01" tilt="-11.7" title="&lt;center>『斜方立法八面体』Rhombicuboctahedron" description="" pan="-57.13"/>
-      <hotspot url="" customimageheight="60" distance3D="342.902" target="" customimage="media/icon2.png" fov="10" skinid="ht_info" customimagewidth="60" use3D="0" id="Point04" tilt="-14.89" title="" description="" pan="-109.31"/>
-      <hotspot url="" customimageheight="60" distance3D="342.902" target="" customimage="media/icon2.png" fov="10" skinid="ht_info" customimagewidth="60" use3D="0" id="Point04" tilt="-12.13" title="" description="" pan="-65.62"/>
-      <hotspot url="" customimageheight="60" distance3D="342.902" target="" customimage="media/icon2.png" fov="10" skinid="ht_info" customimagewidth="60" use3D="0" id="Point04" tilt="-8.42" title="" description="" pan="-46.8"/>
-      <hotspot url="" customimageheight="60" distance3D="342.902" target="" customimage="media/icon2.png" fov="10" skinid="ht_info" customimagewidth="60" use3D="0" id="Point04" tilt="-15.87" title="" description="" pan="-341.55"/>
-      <hotspot url="" customimageheight="60" distance3D="342.902" target="" customimage="media/icon2.png" fov="10" skinid="ht_info" customimagewidth="60" use3D="0" id="Point04" tilt="-5.06" title="" description="" pan="-246.77"/>
-      <hotspot url="" customimageheight="60" distance3D="342.902" target="" customimage="media/icon2.png" fov="10" skinid="ht_info" customimagewidth="60" use3D="0" id="Point04" tilt="-9.53" title="" description="" pan="-314.83"/>
-      <hotspot url="" customimageheight="60" distance3D="342.902" target="" customimage="media/icon2.png" fov="10" skinid="ht_info" customimagewidth="60" use3D="0" id="Point04" tilt="1.91" title="" description="" pan="-313.03"/>
-      <hotspot url="" customimageheight="60" distance3D="342.902" target="" customimage="media/icon2.png" fov="10" skinid="ht_info" customimagewidth="60" use3D="0" id="Point04" tilt="2.38" title="" description="" pan="-273.38"/>
+    <userdata description="&lt;center>&lt;b>2回目のフィレンツェ The Second Florence Room (c.1500-1508)&lt;/b>&lt;/center>&lt;br>&#xa;ミラノがフランス国王ルイ12世に占拠されたことにより、ダ・ヴィンチはマントヴァとヴェネチアに短期滞在の後、再びフィレンツェに戻ります。ダヴィンチの生涯で最も重要とも言えるフィレンツェ政庁からの委託作品『アンギアーリの戦い』をはじめ、サンティッシマ・アンヌンツイアータ聖堂の祭壇画として委託された『聖アンナと聖母子』、シルク商人フランシスコ・デル・ジョコンダから依頼されたとされる『モナ・リザ（ラ・ジョコンダ）』に着手します。後に、遺言執行人となった弟子フランチェスコ・メルツィには、この時期にミラノに出かけ滞在した折に（1505年頃）出会っています。1504年には、父セル・ピエロが亡くなっています。&lt;br>&#xa;ヴァレンティーノ公チェーザレ・ボルジアのために、チェゼーナでは緻密な地図制作を含めた軍事エンジニアとして活躍します。特にこの時期に熱心に研究されたひとつは、鳥の飛翔メカニズムでした。また、1496年にミラノで出会った数学者ルカ・パチョーリと同居したことで、幾何学への探求心は、一層深まっています。この時期に所有していた書物は、116タイトル（マドリード手稿II）を数えます。文学、数学、哲学への興味が一段と高まったことに加え、地理学、農学、心理学、相貌学などへの新たな関心を持っています。&lt;br>" copyright="" title="2nd Florence" heading="0" datetime="07/07/2022 7:36 AM" longitude="" comment="" customnodeid="" info="" latitude="" author="" source="" tags="3. 2nd Florence" nodeid="node5"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundalpha="1" width="180" height="20" textcolor="0x000000" textalpha="1" bordercolor="0x000000" wordwrap="1" border="1" enabled="1" background="1" backgroundcolor="0xffffff" borderalpha="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot description="" customimagewidth="60" tilt="-10.87" title="&lt;center> 『モナ・リザ（ラ・ジョコンダ）』 Mona Lisa (La Joconde)、1503-1516" id="Point03" skinid="ht_image" customimage="media/icon3.png" url="images/3c.png" customimageheight="60" fov="10" distance3D="342.902" target="" use3D="0" pan="-328.23"/>
+      <hotspot description="" customimagewidth="60" tilt="-7.69" title="&lt;center>『聖アンナと聖母子、洗礼者ヨハネ』 The Virgin and Child with Saint Anne and the Infant Saint John the Baptist、1500" id="Point03" skinid="ht_image" customimage="media/icon3.png" url="images/3b.png" customimageheight="60" fov="10" distance3D="342.902" target="" use3D="0" pan="-158.8"/>
+      <hotspot description="" customimagewidth="60" tilt="0.1" title="&lt;center>『鳥の飛翔に関する手稿』 Study on the Flight of Birds、1505" id="Point01" skinid="ht_image" customimage="media/icon1.png" url="images/3BIRDS.png" customimageheight="60" fov="10" distance3D="342.902" target="" use3D="0" pan="-212.59"/>
+      <hotspot description="" customimagewidth="60" tilt="5.55" title="&lt;center>『レダの頭部』 Head of Leda、1503-1506" id="Point01" skinid="ht_image" customimage="media/icon1.png" url="images/3LEDA.png" customimageheight="60" fov="10" distance3D="342.902" target="" use3D="0" pan="-212.27"/>
+      <hotspot description="" customimagewidth="60" tilt="-1.01" title="&lt;center>『フォイアーノ・デッラ・キアーナの地図』 Map of the Valdichiana、1503-1506" id="Point01" skinid="ht_image" customimage="media/icon1.png" url="images/3MAP.png" customimageheight="60" fov="10" distance3D="342.902" target="" use3D="0" pan="-206.4"/>
+      <hotspot description="" customimagewidth="60" tilt="4.79" title="&lt;center>『アンギアーリの戦い習作』 Studies for the Battle of Anghiari、1503-1505" id="Point01" skinid="ht_image" customimage="media/icon1.png" url="images/3ALL.png" customimageheight="60" fov="10" distance3D="342.902" target="" use3D="0" pan="-202.2"/>
+      <hotspot description="" customimagewidth="60" tilt="-11.7" title="&lt;center>『斜方立法八面体』Rhombicuboctahedron" id="Point01" skinid="ht_image" customimage="media/icon5.png" url="images/3h.png" customimageheight="60" fov="10" distance3D="342.902" target="" use3D="0" pan="-57.13"/>
+      <hotspot description="" customimagewidth="60" tilt="-14.7" title="ストラボン、『地理誌』、c.30BC-23AD&#xa;Strabo, De situ orbis (Geography)" id="Point04" skinid="ht_image" customimage="media/icon2.png" url="images/r3xG.png" customimageheight="60" fov="10" distance3D="342.902" target="" use3D="0" pan="-109.32"/>
+      <hotspot description="" customimagewidth="60" tilt="-9.19" title="アリストテレス（384–322 BC）、『アリストテレス著作集』&#xa;Aristoteles (Aristotle), Opera (Works)" id="Point04" skinid="ht_image" customimage="media/icon2.png" url="images/r3xF.png" customimageheight="60" fov="10" distance3D="342.902" target="" use3D="0" pan="-65.9"/>
+      <hotspot description="" customimagewidth="60" tilt="-6.33" title="ロジャー・ベーコン、『光学』、completed by 1267&#xa;Roger Bacon, Perspectiva (Perspective)" id="Point04" skinid="ht_image" customimage="media/icon2.png" url="images/r2xE.png" customimageheight="60" fov="10" distance3D="342.902" target="" use3D="0" pan="-49.92"/>
+      <hotspot description="" customimagewidth="60" tilt="-15.87" title="エウクレイデス(300BCE)、『原論』&#xa;Euclides (Euclid), Elementa Geometriae (Elements of Geometry)" id="Point04" skinid="ht_image" customimage="media/icon2.png" url="images/r3xI.png" customimageheight="60" fov="10" distance3D="342.902" target="" use3D="0" pan="-341.55"/>
+      <hotspot description="" customimagewidth="60" tilt="-3.43" title="マルクス・ウィトルウィウス・ポッリオ、『建築について』、30-20 BCE&#xa;Marcus Vitruvius Pollio, De architectura (On architecture)" id="Point04" skinid="ht_image" customimage="media/icon2.png" url="images/r3xA.png" customimageheight="60" fov="10" distance3D="342.902" target="" use3D="0" pan="-248.22"/>
+      <hotspot description="" customimagewidth="60" tilt="-9.53" title="アルキメデス（282-212 BCE）、『アルキメデス著作集』&#xa;Archimedes, Opera (Works)" id="Point04" skinid="ht_image" customimage="media/icon2.png" url="images/r3xD.png" customimageheight="60" fov="10" distance3D="342.902" target="" use3D="0" pan="-314.83"/>
+      <hotspot description="" customimagewidth="60" tilt="1.91" title="アゴスティーノ・ダティ、『ラテン語スタイルへの手引き』、before 1471&#xa;Agostino Dati, Elegantiolae (Guide to Latin Style)" id="Point04" skinid="ht_image" customimage="media/icon2.png" url="images/r3xC.png" customimageheight="60" fov="10" distance3D="342.902" target="" use3D="0" pan="-313.03"/>
+      <hotspot description="" customimagewidth="60" tilt="2.38" title="クラウディオス・プトレマイオス、『コスモグラフィア』、c.150&#xa;Claudius Ptolemaeus (Ptolemy), Cosmographia (Cosmography)" id="Point04" skinid="ht_image" customimage="media/icon2.png" url="images/r3xB.png" customimageheight="60" fov="10" distance3D="342.902" target="" use3D="0" pan="-273.38"/>
     </hotspots>
     <media/>
-    <transition zoomfov="20" type="crossdissolve" zoomspeed="2" blendcolor="0x000000" softedge="0" zoomout="0" enabled="1" zoomafterinfov="90" zoomoutpause="1" zoomin="0" blendtime="1" zoomafteroutfov="20"/>
-    <autorotate startloaded="1" noderandom="1" enabled="1" delay="4.00" speed="0.030" returntohorizon="0.000" nodedelay="0.00" useanimation="0" nodefilter=""/>
-    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control lockedkeyboard="0" rubberband="0" invertcontrol="1" lockedkeyboardzoom="0" invertwheel="1" contextprojections="0" lockedmouse="0" lockedwheel="0" dblclickfullscreen="0" simulatemass="1" speedwheel="1.5" sensitivity="10" contextfullscreen="1" hideabout="0"/>
+    <transition type="crossdissolve" zoomfov="20" zoomafteroutfov="20" zoomout="0" zoomin="0" zoomoutpause="1" zoomspeed="2" enabled="1" softedge="0" zoomafterinfov="90" blendtime="1" blendcolor="0x000000"/>
+    <autorotate startloaded="1" nodedelay="0.00" delay="4.00" useanimation="0" returntohorizon="0.000" noderandom="1" speed="0.030" enabled="1" nodefilter=""/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" lockedkeyboardzoom="0" invertcontrol="1" hideabout="0" dblclickfullscreen="0" contextfullscreen="1" sensitivity="10" rubberband="0" lockedmouse="0" invertwheel="1" lockedwheel="0" contextprojections="0" simulatemass="1" speedwheel="1.5"/>
   </panorama>
   <panorama id="node6">
-    <input height="2048" levelbias="0.400" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" leveltilesize="510" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000" overlap="1">
-      <level height="2048" predecode="0" width="2048" preload="0"/>
-      <level height="1024" predecode="0" width="1024" preload="0"/>
-      <level height="512" predecode="0" width="512" preload="0"/>
-      <level height="256" predecode="1" width="256" preload="1"/>
+    <input levelingroll="0" width="2048" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2048" levelbias="0.400" levelingpitch="0" leveltilesize="510" levelbiashidpi="1.000" overlap="1">
+      <level width="2048" height="2048" predecode="0" preload="0"/>
+      <level width="1024" height="1024" predecode="0" preload="0"/>
+      <level width="512" height="512" predecode="0" preload="0"/>
+      <level width="256" height="256" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="0" fovmode="0">
-      <start projection="4" fov="80" tilt="0" pan="-117"/>
-      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <start tilt="0" fov="80" projection="4" pan="-117"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
       <min tilt="-90" fovpixel="2" pan="0"/>
-      <max fov="120" fovstereographic="270" fovfisheye="360" scaletofit="1" tilt="90" pan="360"/>
+      <max tilt="90" fovstereographic="270" scaletofit="1" fov="120" pan="360" fovfisheye="360"/>
     </view>
-    <userdata datetime="07/12/2022 11:01 AM" tags="4. 2nd Milan" author="" heading="0" latitude="" comment="" info="" longitude="" customnodeid="" title="2nd Milan" nodeid="node6" description="&lt;center>&lt;b>２回目のミラノ The Second Milan Room (c.1508-1513)&lt;/b>&lt;/center>&lt;br>&#xa;1506年にフランスのミラノ総督シャルル・ダンボワーズからの誘いを受け、『アンギアーリの戦い』を未完のままでフィレンツェを後にし、1508年にミラノの邸宅に落ち着いた時期にあたります。&lt;br>&#xa;ダ・ヴィンチの制作意欲は、限られた作品『聖アンナと聖母子』、『モナ・リザ（ラ・ジョコンダ）』、『洗礼者ヨハネ』の完成に向けられます。それらを極めるためか、この時期は人体解剖図制作に没頭しています。特に1510-1511年には、パヴィア大学解剖学教授マルカントニオ・デル・トッレとの共同作業で、20体を次々に解剖しています。また、貴族・傭兵隊長ジャン・ジャコモ・トリヴルツィオのための騎馬像を依頼され、そのためのスケッチが残されていますが、旧スイス連邦の侵攻によってあえなく中断されてしまいます。&lt;br>&#xa;所蔵書籍の数はゆるやかに増え、この時期は天文学・文学・数学・医学・哲学・物理学・錬金術の分野への関心が続いていたことが分かります。また、手稿は膨大な量となり、弟子フランチェスコ・メルツィの手を借りながら、分類・加筆・書き直しを含めた作業を行っていました。" copyright="" source=""/>
-    <hotspots height="20" width="180" wordwrap="1">
-      <label background="1" bordercolor="0x000000" height="20" backgroundalpha="1" borderradius="1" backgroundcolor="0xffffff" width="180" enabled="1" border="1" wordwrap="1" textalpha="1" borderalpha="1" textcolor="0x000000"/>
-      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" borderalpha="1" handcursor="1"/>
-      <hotspot url="images/4d.png" customimageheight="60" distance3D="342.902" target="" customimage="media/icon3.png" fov="10" skinid="ht_image" customimagewidth="60" use3D="0" id="Point03" tilt="-17.95" title="&lt;center>『モナ・リザ（ラ・ジョコンダ）』 Mona Lisa (La Joconde)、1503-1516" description="" pan="-285.48"/>
-      <hotspot url="images/4a.png" customimageheight="60" distance3D="342.902" target="" customimage="media/icon3.png" fov="10" skinid="ht_image" customimagewidth="60" use3D="0" id="Point03" tilt="-14.99" title="&lt;center>『洗礼者ヨハネ』 Saint John the Baptist 、1507-1516" description="" pan="-12.64"/>
-      <hotspot url="images/4c.png" customimageheight="60" distance3D="342.902" target="" customimage="media/icon1.png" fov="10" skinid="ht_image" customimagewidth="60" use3D="0" id="Point01" tilt="1.21" title="&lt;center>『トリヴルツィオ記念碑のためのスケッチ』 Studies for the Trivulzio Monument、1508-1510" description="" pan="-123.01"/>
-      <hotspot url="images/4b.png" customimageheight="60" distance3D="342.902" target="" customimage="media/icon1.png" fov="10" skinid="ht_image" customimagewidth="60" use3D="0" id="Point01" tilt="8" title="&lt;center>『人体解剖図』 Studies of Human Anatomy、1507-1511" description="" pan="-116.47"/>
-      <hotspot url="" customimageheight="60" distance3D="342.902" target="" customimage="media/icon2.png" fov="10" skinid="ht_info" customimagewidth="60" use3D="0" id="Point04" tilt="-1.77" title="" description="" pan="-153.84"/>
-      <hotspot url="" customimageheight="60" distance3D="342.902" target="" customimage="media/icon2.png" fov="10" skinid="ht_info" customimagewidth="60" use3D="0" id="Point04" tilt="-3.79" title="" description="" pan="-250.67"/>
-      <hotspot url="" customimageheight="60" distance3D="342.902" target="" customimage="media/icon2.png" fov="10" skinid="ht_info" customimagewidth="60" use3D="0" id="Point04" tilt="-4.5" title="" description="" pan="-49.09"/>
+    <userdata description="&lt;center>&lt;b>２回目のミラノ The Second Milan Room (c.1508-1513)&lt;/b>&lt;/center>&lt;br>&#xa;1506年にフランスのミラノ総督シャルル・ダンボワーズからの誘いを受け、『アンギアーリの戦い』を未完のままでフィレンツェを後にし、1508年にミラノの邸宅に落ち着いた時期にあたります。&lt;br>&#xa;ダ・ヴィンチの制作意欲は、限られた作品『聖アンナと聖母子』、『モナ・リザ（ラ・ジョコンダ）』、『洗礼者ヨハネ』の完成に向けられます。それらを極めるためか、この時期は人体解剖図制作に没頭しています。特に1510-1511年には、パヴィア大学解剖学教授マルカントニオ・デル・トッレとの共同作業で、20体を次々に解剖しています。また、貴族・傭兵隊長ジャン・ジャコモ・トリヴルツィオのための騎馬像を依頼され、そのためのスケッチが残されていますが、旧スイス連邦の侵攻によってあえなく中断されてしまいます。&lt;br>&#xa;所蔵書籍の数はゆるやかに増え、この時期は天文学・文学・数学・医学・哲学・物理学・錬金術の分野への関心が続いていたことが分かります。また、手稿は膨大な量となり、弟子フランチェスコ・メルツィの手を借りながら、分類・加筆・書き直しを含めた作業を行っていました。" copyright="" title="2nd Milan" heading="0" datetime="07/12/2022 11:01 AM" longitude="" comment="" customnodeid="" info="" latitude="" author="" source="" tags="4. 2nd Milan" nodeid="node6"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundalpha="1" width="180" height="20" textcolor="0x000000" textalpha="1" bordercolor="0x000000" wordwrap="1" border="1" enabled="1" background="1" backgroundcolor="0xffffff" borderalpha="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot description="" customimagewidth="60" tilt="-17.95" title="&lt;center>『モナ・リザ（ラ・ジョコンダ）』 Mona Lisa (La Joconde)、1503-1516" id="Point03" skinid="ht_image" customimage="media/icon3.png" url="images/4d.png" customimageheight="60" fov="10" distance3D="342.902" target="" use3D="0" pan="-285.48"/>
+      <hotspot description="" customimagewidth="60" tilt="-14.99" title="&lt;center>『洗礼者ヨハネ』 Saint John the Baptist 、1507-1516" id="Point03" skinid="ht_image" customimage="media/icon3.png" url="images/4a.png" customimageheight="60" fov="10" distance3D="342.902" target="" use3D="0" pan="-12.64"/>
+      <hotspot description="" customimagewidth="60" tilt="1.21" title="&lt;center>『トリヴルツィオ記念碑のためのスケッチ』 Studies for the Trivulzio Monument、1508-1510" id="Point01" skinid="ht_image" customimage="media/icon1.png" url="images/4c.png" customimageheight="60" fov="10" distance3D="342.902" target="" use3D="0" pan="-123.01"/>
+      <hotspot description="" customimagewidth="60" tilt="8" title="&lt;center>『人体解剖図』 Studies of Human Anatomy、1507-1511" id="Point01" skinid="ht_image" customimage="media/icon1.png" url="images/4b.png" customimageheight="60" fov="10" distance3D="342.902" target="" use3D="0" pan="-116.47"/>
+      <hotspot description="" customimagewidth="60" tilt="-1.77" title="ルカ・パチョーリ、『神聖比例論』、1496-1497&#xa;Luca Pacioli, Divina proportione (Divine Proportion)" id="Point04" skinid="ht_image" customimage="media/icon2.png" url="images/r4xA.png" customimageheight="60" fov="10" distance3D="342.902" target="" use3D="0" pan="-153.84"/>
+      <hotspot description="" customimagewidth="60" tilt="-3.79" title="アビセンナ(980-1037)、『医学典範』、c.1025&#xa;Avicenna, Canon medicinae　(Canon of Medicine)" id="Point04" skinid="ht_image" customimage="media/icon2.png" url="images/r4xB.png" customimageheight="60" fov="10" distance3D="342.902" target="" use3D="0" pan="-250.67"/>
+      <hotspot description="" customimagewidth="60" tilt="-4.5" title="アレッサンドロ・ベネデッティ、『人体と解剖の歴史』、1502&#xa;Alessandro Benedetti, Historia corporis humani, sive Anatomice　(History of the Human Body, or Anatomy)" id="Point04" skinid="ht_image" customimage="media/icon2.png" url="images/r4xC.png" customimageheight="60" fov="10" distance3D="342.902" target="" use3D="0" pan="-49.09"/>
     </hotspots>
     <media/>
-    <transition zoomfov="20" type="crossdissolve" zoomspeed="2" blendcolor="0x000000" softedge="0" zoomout="0" enabled="1" zoomafterinfov="90" zoomoutpause="1" zoomin="0" blendtime="1" zoomafteroutfov="20"/>
-    <autorotate startloaded="1" noderandom="1" enabled="1" delay="4.00" speed="0.030" returntohorizon="0.000" nodedelay="0.00" useanimation="0" nodefilter=""/>
-    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control lockedkeyboard="0" rubberband="0" invertcontrol="1" lockedkeyboardzoom="0" invertwheel="1" contextprojections="0" lockedmouse="0" lockedwheel="0" dblclickfullscreen="0" simulatemass="1" speedwheel="1.5" sensitivity="10" contextfullscreen="1" hideabout="0"/>
+    <transition type="crossdissolve" zoomfov="20" zoomafteroutfov="20" zoomout="0" zoomin="0" zoomoutpause="1" zoomspeed="2" enabled="1" softedge="0" zoomafterinfov="90" blendtime="1" blendcolor="0x000000"/>
+    <autorotate startloaded="1" nodedelay="0.00" delay="4.00" useanimation="0" returntohorizon="0.000" noderandom="1" speed="0.030" enabled="1" nodefilter=""/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" lockedkeyboardzoom="0" invertcontrol="1" hideabout="0" dblclickfullscreen="0" contextfullscreen="1" sensitivity="10" rubberband="0" lockedmouse="0" invertwheel="1" lockedwheel="0" contextprojections="0" simulatemass="1" speedwheel="1.5"/>
   </panorama>
   <panorama id="node7">
-    <input height="2048" levelbias="0.400" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" leveltilesize="510" levelingpitch="0" levelingroll="0" levelbiashidpi="1.000" overlap="1">
-      <level height="2048" predecode="0" width="2048" preload="0"/>
-      <level height="1024" predecode="0" width="1024" preload="0"/>
-      <level height="512" predecode="0" width="512" preload="0"/>
-      <level height="256" predecode="1" width="256" preload="1"/>
+    <input levelingroll="0" width="2048" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2048" levelbias="0.400" levelingpitch="0" leveltilesize="510" levelbiashidpi="1.000" overlap="1">
+      <level width="2048" height="2048" predecode="0" preload="0"/>
+      <level width="1024" height="1024" predecode="0" preload="0"/>
+      <level width="512" height="512" predecode="0" preload="0"/>
+      <level width="256" height="256" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="0" fovmode="0">
-      <start projection="4" fov="80" tilt="0" pan="85"/>
-      <flyin projection="4" fov="80" tilt="0" pan="85"/>
+      <start tilt="0" fov="80" projection="4" pan="85"/>
+      <flyin tilt="0" fov="80" projection="4" pan="85"/>
       <min tilt="-90" fovpixel="2" pan="0"/>
-      <max fov="120" fovstereographic="270" fovfisheye="360" scaletofit="1" tilt="90" pan="360"/>
+      <max tilt="90" fovstereographic="270" scaletofit="1" fov="120" pan="360" fovfisheye="360"/>
     </view>
-    <userdata datetime="06/24/2022 11:59 PM" tags="4alt" author="" heading="0" latitude="" comment="" info="" longitude="" customnodeid="" title="Amboise" nodeid="node7" description="&lt;center>&lt;b>アンボワーズ The Amboise Room (1516-1519)&lt;/b>&lt;/center>&lt;br>&#xa;ジュリアーノ・メディチ（教皇レオ10世の弟）から招かれ、バチカン宮殿内に３年ほど(1513-1516)住みますが、彼の死によって、今度はフランス国王フランソワ１世の招聘に応じてフランスに向かい、宮廷アンボワーズ城近くのクルー城で最晩年を過ごすことになります。&lt;br>&#xa;枢機卿ルイージ・ダラコーナの秘書官をしていたアントニオ・デ・ベアーティスの旅行記によると、1517年10月10日にクルー城に訪れた際に、ダ・ヴィンチは『聖アンナと聖母子』、『洗礼者ヨハネ』、『モナ・リザ（ラ・ジョコンダ』が披露し、ダ・ヴィンチの科学研究、特に解剖学研究について説明したことが分かっています。またその際、手稿はジャンルごとにまとめられ、出版のために準備している印象だったことを伝えています。その一方、手稿に描き記すことは継続し、未完『聖アンナと聖母子』のための衣紋線、騎馬像、馬や小動物、大洪水などのドローイングをこの時期にも残しています。この時期に取得した本は限られていましたが、最終的に所蔵書籍は、約200冊に達していました。&lt;br>&#xa;1519年 4月 23日、遺言状を口述して作成し、弟子フランチェスコ・メルツィを遺言執行人に指名するとともに、公式な相続人として手稿、画材、機械装置などを譲り、その後まもなく1519年5月2日にダ・ヴィンチは67歳でこの世を去りました。" copyright="" source=""/>
-    <hotspots height="20" width="180" wordwrap="1">
-      <label background="1" bordercolor="0x000000" height="20" backgroundalpha="1" borderradius="1" backgroundcolor="0xffffff" width="180" enabled="1" border="1" wordwrap="1" textalpha="1" borderalpha="1" textcolor="0x000000"/>
-      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0" borderalpha="1" handcursor="1"/>
-      <hotspot url="images/5j.png" customimageheight="60" distance3D="342.902" target="" customimage="media/icon3.png" fov="10" skinid="ht_image" customimagewidth="60" use3D="0" id="Point03" tilt="-19.39" title="&lt;center>『モナ・リザ（ラ・ジョコンダ）』 Mona Lisa (La Joconde)、1503-1516" description="" pan="-243.89"/>
-      <hotspot url="images/5a.png" customimageheight="60" distance3D="342.902" target="" customimage="media/icon3.png" fov="10" skinid="ht_image" customimagewidth="60" use3D="0" id="Point03" tilt="-14.36" title="&lt;center>『聖アンナと聖母子』The Virgin and Child with Saint Anne、1507-1516" description="" pan="-269.44"/>
-      <hotspot url="images/5k.png" customimageheight="60" distance3D="342.902" target="" customimage="media/icon3.png" fov="10" skinid="ht_image" customimagewidth="60" use3D="0" id="Point03" tilt="-8.15" title="&lt;center>『洗礼者ヨハネ』 Saint John the Baptist 、1507-1516" description="" pan="-294.79"/>
-      <hotspot url="images/5d.png" customimageheight="60" distance3D="342.902" target="" customimage="media/icon1.png" fov="10" skinid="ht_image" customimagewidth="60" use3D="0" id="Point01" tilt="0.66" title="&lt;center>『馬に乗ったマスカレーダー』 A Masquerader on Horseback、1517-1518" description="" pan="-43"/>
-      <hotspot url="images/5c.png" customimageheight="60" distance3D="342.902" target="" customimage="media/icon1.png" fov="10" skinid="ht_image" customimagewidth="60" use3D="0" id="Point01" tilt="0.71" title="&lt;center>『大洪水』 A Deluge、1517-1518" description="" pan="-50.22"/>
-      <hotspot url="images/5f.png" customimageheight="60" distance3D="342.902" target="" customimage="media/icon1.png" fov="10" skinid="ht_image" customimagewidth="60" use3D="0" id="Point01" tilt="0.75" title="&lt;center>『馬、聖ゲオルギオスと竜、ライオン』 Horses, St George Fighting the Dragon, and Lion、1517-1518" description="" pan="-57.6"/>
-      <hotspot url="images/5e.png" customimageheight="60" distance3D="342.902" target="" customimage="media/icon1.png" fov="10" skinid="ht_image" customimagewidth="60" use3D="0" id="Point01" tilt="0.65" title="&lt;center>『聖アンナの足のドレープ』 The Drapery for St Anne's Legs、1517-1518" description="" pan="-64.62"/>
-      <hotspot url="images/5h.png" customimageheight="60" distance3D="342.902" target="" customimage="media/icon1.png" fov="10" skinid="ht_image" customimagewidth="60" use3D="0" id="Point01" tilt="-13.04" title="&lt;center>『騎馬像のためのデザイン』 Designs for an Equestrian Monument、1517-1518" description="" pan="-43.38"/>
-      <hotspot url="images/5i.png" customimageheight="60" distance3D="342.902" target="" customimage="media/icon1.png" fov="10" skinid="ht_image" customimagewidth="60" use3D="0" id="Point01" tilt="-12.97" title="&lt;center>『レオナルド・ダ・ヴィンチの肖像画』 Portrait of Leonardo、1508-1510" description="" pan="-50.83"/>
-      <hotspot url="images/5b.png" customimageheight="60" distance3D="342.902" target="" customimage="media/icon1.png" fov="10" skinid="ht_image" customimagewidth="60" use3D="0" id="Point01" tilt="-11.68" title="&lt;center>『聖母の腕のドレープ』 Drapery of the Madonna’s Arm、1510-1515" description="" pan="-58.28"/>
-      <hotspot url="images/5g.png" customimageheight="60" distance3D="342.902" target="" customimage="media/icon1.png" fov="10" skinid="ht_image" customimagewidth="60" use3D="0" id="Point01" tilt="-11.78" title="&lt;center>『猫、竜、ライオン』 Cats, Lions, and Dragon、1517-1518" description="" pan="-65.62"/>
-      <hotspot url="" customimageheight="60" distance3D="342.902" target="" customimage="media/icon2.png" fov="10" skinid="ht_info" customimagewidth="60" use3D="0" id="Point04" tilt="-10.58" title="" description="" pan="-213.97"/>
-      <hotspot url="" customimageheight="60" distance3D="342.902" target="" customimage="media/icon2.png" fov="10" skinid="ht_info" customimagewidth="60" use3D="0" id="Point04" tilt="-14.88" title="" description="" pan="-71.5"/>
-      <hotspot url="" customimageheight="60" distance3D="342.902" target="" customimage="media/icon2.png" fov="10" skinid="ht_info" customimagewidth="60" use3D="0" id="Point04" tilt="6.24" title="" description="" pan="-76.02"/>
+    <userdata description="&lt;center>&lt;b>アンボワーズ The Amboise Room (1516-1519)&lt;/b>&lt;/center>&lt;br>&#xa;ジュリアーノ・メディチ（教皇レオ10世の弟）から招かれ、バチカン宮殿内に３年ほど(1513-1516)住みますが、彼の死によって、今度はフランス国王フランソワ１世の招聘に応じてフランスに向かい、宮廷アンボワーズ城近くのクルー城で最晩年を過ごすことになります。&lt;br>&#xa;枢機卿ルイージ・ダラコーナの秘書官をしていたアントニオ・デ・ベアーティスの旅行記によると、1517年10月10日にクルー城に訪れた際に、ダ・ヴィンチは『聖アンナと聖母子』、『洗礼者ヨハネ』、『モナ・リザ（ラ・ジョコンダ』が披露し、ダ・ヴィンチの科学研究、特に解剖学研究について説明したことが分かっています。またその際、手稿はジャンルごとにまとめられ、出版のために準備している印象だったことを伝えています。その一方、手稿に描き記すことは継続し、未完『聖アンナと聖母子』のための衣紋線、騎馬像、馬や小動物、大洪水などのドローイングをこの時期にも残しています。この時期に取得した本は限られていましたが、最終的に所蔵書籍は、約200冊に達していました。&lt;br>&#xa;1519年 4月 23日、遺言状を口述して作成し、弟子フランチェスコ・メルツィを遺言執行人に指名するとともに、公式な相続人として手稿、画材、機械装置などを譲り、その後まもなく1519年5月2日にダ・ヴィンチは67歳でこの世を去りました。" copyright="" title="Amboise" heading="0" datetime="06/24/2022 11:59 PM" longitude="" comment="" customnodeid="" info="" latitude="" author="" source="" tags="4alt" nodeid="node7"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label backgroundalpha="1" width="180" height="20" textcolor="0x000000" textalpha="1" bordercolor="0x000000" wordwrap="1" border="1" enabled="1" background="1" backgroundcolor="0xffffff" borderalpha="1" borderradius="1"/>
+      <polystyle backgroundalpha="0.25098" bordercolor="0x0000ff" mode="0" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot description="" customimagewidth="60" tilt="-19.39" title="&lt;center>『モナ・リザ（ラ・ジョコンダ）』 Mona Lisa (La Joconde)、1503-1516" id="Point03" skinid="ht_image" customimage="media/icon3.png" url="images/5j.png" customimageheight="60" fov="10" distance3D="342.902" target="" use3D="0" pan="-243.89"/>
+      <hotspot description="" customimagewidth="60" tilt="-14.36" title="&lt;center>『聖アンナと聖母子』The Virgin and Child with Saint Anne、1507-1516" id="Point03" skinid="ht_image" customimage="media/icon3.png" url="images/5a.png" customimageheight="60" fov="10" distance3D="342.902" target="" use3D="0" pan="-269.44"/>
+      <hotspot description="" customimagewidth="60" tilt="-8.15" title="&lt;center>『洗礼者ヨハネ』 Saint John the Baptist 、1507-1516" id="Point03" skinid="ht_image" customimage="media/icon3.png" url="images/5k.png" customimageheight="60" fov="10" distance3D="342.902" target="" use3D="0" pan="-294.79"/>
+      <hotspot description="" customimagewidth="60" tilt="0.66" title="&lt;center>『馬に乗ったマスカレーダー』 A Masquerader on Horseback、1517-1518" id="Point01" skinid="ht_image" customimage="media/icon1.png" url="images/5d.png" customimageheight="60" fov="10" distance3D="342.902" target="" use3D="0" pan="-43"/>
+      <hotspot description="" customimagewidth="60" tilt="0.71" title="&lt;center>『大洪水』 A Deluge、1517-1518" id="Point01" skinid="ht_image" customimage="media/icon1.png" url="images/5c.png" customimageheight="60" fov="10" distance3D="342.902" target="" use3D="0" pan="-50.22"/>
+      <hotspot description="" customimagewidth="60" tilt="0.75" title="&lt;center>『馬、聖ゲオルギオスと竜、ライオン』 Horses, St George Fighting the Dragon, and Lion、1517-1518" id="Point01" skinid="ht_image" customimage="media/icon1.png" url="images/5f.png" customimageheight="60" fov="10" distance3D="342.902" target="" use3D="0" pan="-57.6"/>
+      <hotspot description="" customimagewidth="60" tilt="0.65" title="&lt;center>『聖アンナの足のドレープ』 The Drapery for St Anne's Legs、1517-1518" id="Point01" skinid="ht_image" customimage="media/icon1.png" url="images/5e.png" customimageheight="60" fov="10" distance3D="342.902" target="" use3D="0" pan="-64.62"/>
+      <hotspot description="" customimagewidth="60" tilt="-13.04" title="&lt;center>『騎馬像のためのデザイン』 Designs for an Equestrian Monument、1517-1518" id="Point01" skinid="ht_image" customimage="media/icon1.png" url="images/5h.png" customimageheight="60" fov="10" distance3D="342.902" target="" use3D="0" pan="-43.38"/>
+      <hotspot description="" customimagewidth="60" tilt="-12.97" title="&lt;center>『レオナルド・ダ・ヴィンチの肖像画』 Portrait of Leonardo、1508-1510" id="Point01" skinid="ht_image" customimage="media/icon1.png" url="images/5i.png" customimageheight="60" fov="10" distance3D="342.902" target="" use3D="0" pan="-50.83"/>
+      <hotspot description="" customimagewidth="60" tilt="-11.68" title="&lt;center>『聖母の腕のドレープ』 Drapery of the Madonna’s Arm、1510-1515" id="Point01" skinid="ht_image" customimage="media/icon1.png" url="images/5b.png" customimageheight="60" fov="10" distance3D="342.902" target="" use3D="0" pan="-58.28"/>
+      <hotspot description="" customimagewidth="60" tilt="-11.78" title="&lt;center>『猫、竜、ライオン』 Cats, Lions, and Dragon、1517-1518" id="Point01" skinid="ht_image" customimage="media/icon1.png" url="images/5g.png" customimageheight="60" fov="10" distance3D="342.902" target="" use3D="0" pan="-65.62"/>
+      <hotspot description="" customimagewidth="60" tilt="-3.98" title="マルクス・トゥッリウス・キケロ、『予言について』、ｃ.44BCE&#xa;Marcus Tullius Cicero, De divinatione　(On Divination)" id="Point04" skinid="ht_image" customimage="media/icon2.png" url="images/r5xB.png" customimageheight="60" fov="10" distance3D="342.902" target="" use3D="0" pan="-155.23"/>
+      <hotspot description="" customimagewidth="60" tilt="-10.45" title="ジョルダーノ・ルッフォ（1200-1256）、『獣医学』&#xa;Giordano Ruffo, Arte di conoscere la natura dei cavalli (The Art of Knowing the Nature of Horses)" id="Point04" skinid="ht_image" customimage="media/icon2.png" url="images/r5xC.png" customimageheight="60" fov="10" distance3D="342.902" target="" use3D="0" pan="-208.11"/>
+      <hotspot description="" customimagewidth="60" tilt="6.24" title="ヨルダヌス・ネモラリウス、『重力の科学』、ｃ.1250&#xa;Jordanus Nemorarius, De ratione ponderis (Science of Weights)" id="Point04" skinid="ht_image" customimage="media/icon2.png" url="images/r5xA.png" customimageheight="60" fov="10" distance3D="342.902" target="" use3D="0" pan="-76.02"/>
     </hotspots>
     <media/>
-    <transition zoomfov="20" type="crossdissolve" zoomspeed="2" blendcolor="0x000000" softedge="0" zoomout="0" enabled="1" zoomafterinfov="90" zoomoutpause="1" zoomin="0" blendtime="1" zoomafteroutfov="20"/>
-    <autorotate startloaded="1" noderandom="1" enabled="1" delay="4.00" speed="0.030" returntohorizon="0.000" nodedelay="0.00" useanimation="0" nodefilter=""/>
-    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control lockedkeyboard="0" rubberband="0" invertcontrol="1" lockedkeyboardzoom="0" invertwheel="1" contextprojections="0" lockedmouse="0" lockedwheel="0" dblclickfullscreen="0" simulatemass="1" speedwheel="1.5" sensitivity="10" contextfullscreen="1" hideabout="0"/>
+    <transition type="crossdissolve" zoomfov="20" zoomafteroutfov="20" zoomout="0" zoomin="0" zoomoutpause="1" zoomspeed="2" enabled="1" softedge="0" zoomafterinfov="90" blendtime="1" blendcolor="0x000000"/>
+    <autorotate startloaded="1" nodedelay="0.00" delay="4.00" useanimation="0" returntohorizon="0.000" noderandom="1" speed="0.030" enabled="1" nodefilter=""/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboard="0" lockedkeyboardzoom="0" invertcontrol="1" hideabout="0" dblclickfullscreen="0" contextfullscreen="1" sensitivity="10" rubberband="0" lockedmouse="0" invertwheel="1" lockedwheel="0" contextprojections="0" simulatemass="1" speedwheel="1.5"/>
   </panorama>
   <masternode>
-    <userdata datetime="" tags="" author="" heading="0" latitude="" comment="" info="" longitude="" customnodeid="" title="" nodeid="master" description="" copyright="" source=""/>
+    <userdata description="" copyright="" title="" heading="0" datetime="" longitude="" comment="" customnodeid="" info="" latitude="" author="" source="" tags="" nodeid="master"/>
   </masternode>
 </tour>
