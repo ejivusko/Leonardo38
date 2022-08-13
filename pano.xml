@@ -6,7 +6,7 @@
       <level width="1024" height="1024" predecode="0" preload="0"/>
       <level width="512" height="512" predecode="0" preload="0"/>
       <level width="256" height="256" predecode="1" preload="1"/>
-      <preview color="0x808080" strip="1"/>
+      <preview color="0x000000" strip="1"/>
     </input>
     <view pannorth="0" fovmode="0">
       <start pan="45" tilt="0" projection="4" fov="75"/>
@@ -46,7 +46,7 @@
       <level width="1024" height="1024" predecode="0" preload="0"/>
       <level width="512" height="512" predecode="0" preload="0"/>
       <level width="256" height="256" predecode="1" preload="1"/>
-      <preview color="0x808080" strip="1"/>
+      <preview color="0x000000" strip="1"/>
     </input>
     <view pannorth="0" fovmode="0">
       <start pan="180" tilt="0" projection="4" fov="80"/>
@@ -92,7 +92,7 @@
       <level width="1024" height="1024" predecode="0" preload="0"/>
       <level width="512" height="512" predecode="0" preload="0"/>
       <level width="256" height="256" predecode="1" preload="1"/>
-      <preview color="0x808080" strip="1"/>
+      <preview color="0x000000" strip="1"/>
     </input>
     <view pannorth="0" fovmode="0">
       <start pan="180" tilt="0" projection="4" fov="80"/>
@@ -137,7 +137,7 @@
       <level width="1024" height="1024" predecode="0" preload="0"/>
       <level width="512" height="512" predecode="0" preload="0"/>
       <level width="256" height="256" predecode="1" preload="1"/>
-      <preview color="0x808080" strip="1"/>
+      <preview color="0x000000" strip="1"/>
     </input>
     <view pannorth="0" fovmode="0">
       <start pan="-117" tilt="0" projection="4" fov="80"/>
@@ -170,7 +170,7 @@
       <level width="1024" height="1024" predecode="0" preload="0"/>
       <level width="512" height="512" predecode="0" preload="0"/>
       <level width="256" height="256" predecode="1" preload="1"/>
-      <preview color="0x808080" strip="1"/>
+      <preview color="0x000000" strip="1"/>
     </input>
     <view pannorth="0" fovmode="0">
       <start pan="85" tilt="0" projection="4" fov="80"/>
