@@ -4,7 +4,7 @@
     <input levelingpitch="0" height="850" levelingroll="0" width="965" leveltilesize="510" levelbias="0.400" overlap="1" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" cylinder="1" flat="1">
       <level preload="0" predecode="0" height="850" width="965"/>
       <level preload="1" predecode="1" height="425" width="482"/>
-      <preview color="0xb8b4a3"/>
+      <preview color="0xdddace"/>
     </input>
     <view fovmode="0" pannorth="0">
       <start fov="500" tilt="0" pan="0" projection="4"/>
@@ -26,7 +26,7 @@
     <input levelingpitch="0" height="850" levelingroll="0" width="965" leveltilesize="510" levelbias="0.400" overlap="1" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" cylinder="1" flat="1">
       <level preload="0" predecode="0" height="850" width="965"/>
       <level preload="1" predecode="1" height="425" width="482"/>
-      <preview color="0xb8b4a3"/>
+      <preview color="0xdddace"/>
     </input>
     <view fovmode="0" pannorth="0">
       <start fov="500" tilt="0" pan="0" projection="4"/>
@@ -48,7 +48,7 @@
     <input levelingpitch="0" height="850" levelingroll="0" width="964" leveltilesize="510" levelbias="0.400" overlap="1" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" cylinder="1" flat="1">
       <level preload="0" predecode="0" height="850" width="964"/>
       <level preload="1" predecode="1" height="425" width="482"/>
-      <preview color="0xb8b4a3"/>
+      <preview color="0xdddace"/>
     </input>
     <view fovmode="0" pannorth="0">
       <start fov="500" tilt="0" pan="0" projection="4"/>
