@@ -3,7 +3,7 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>EN Location Information</title>
+  <title>Leonardo</title>
   <link rel="stylesheet" href="../../font_styles.css">
   <style>
       * {
@@ -52,13 +52,51 @@
     p.lineh {
       line-height: 135%;
     }
+        .zoom {
+			display:inline-block;
+			position: relative;
+		}
+		
+		/* magnifying glass icon */
+		.zoom:after {
+			content:'';
+			display:block; 
+			width:33px; 
+			height:33px; 
+			position:absolute; 
+			top:0;
+			right:0;
+			background:url(icon.png);
+		}
 
+		.zoom img {
+			display: block;
+		}
+
+		.zoom img::selection { background-color: transparent; }
+
+		#ex2 img:hover { cursor: url(grab.cur), default; }
+		#ex2 img:active { cursor: url(grabbed.cur), default; }   
   </style>
+    	<script src='jquery-3.6.1.min.js'></script>
+	<script src='jquery.zoom.js'></script>
+	<script>
+		$(document).ready(function(){
+			$('#ex1').zoom();
+			$('#ex2').zoom({ on:'grab' });
+			$('#ex3').zoom({ on:'click' });			 
+			$('#ex4').zoom({ on:'toggle' });
+		});
+	</script>
 </head>
 <body>
 <div class="vertwrap">
   <h1 class="verttitle"><p>『ジネブラ・デ・ベンチの肖像』 Ginevra de' Benci, ca. 1474–1478</p></h1>
-  <div class="vertimage"><img class="locsize" src="img/1tc.png"></div>
+  <div class="vertimage">
+<span class='zoom' id='ex1'>
+      <img class="locsize" src="img/1tc.png">
+    	</span>
+    </div>
   <div class="vertcopyright"><p>Oil on wood, 38.1 x 37 cm, National Gallery of Art, Washington DC</p></div>
   <div class="vertcontwrap">
     <div class="vertcontent">
