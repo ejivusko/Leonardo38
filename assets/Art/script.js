@@ -15,7 +15,7 @@ class Template {
   init(contentFile) {
     this.#loadContent(contentFile, getUrlParameter('page')).then((pageContent) => {
       this.#setPageContent(pageContent)
-    }).catch(error => alert(`Error. ${error}`));
+    }).catch(error => console.error(`Error. ${error}`));
   }
 
   #loadContent(file, pageId) {
