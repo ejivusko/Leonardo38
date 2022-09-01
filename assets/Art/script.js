@@ -31,7 +31,7 @@ class Template {
           return;
         }
 
-        let pageContent = content.find(page => page.id === parseInt(pageId, 10));
+        let pageContent = content.find(page => page.id === parseInt(pageId, 10dDdD));
         if(!pageContent) {
           reject( `Page content is not found for id ${pageId}`);
           return;
