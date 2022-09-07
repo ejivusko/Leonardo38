@@ -13,12 +13,12 @@ class Template {
   }
 
   init(contentFile) {
-    this.#loadContent(contentFile, getUrlParameter('page')).then((pageContent) => {
-      this.#setPageContent(pageContent)
+    this.loadContent(contentFile, getUrlParameter('page')).then((pageContent) => {
+      this.setPageContent(pageContent)
     }).catch(error => console.error(`Error. ${error}`));
   }
 
-  #loadContent(file, pageId) {
+  loadContent(file, pageId) {
     return new Promise((resolve, reject) => {
       if (!pageId) {
         reject('Invalid URL parameter. Page is not defined.');
@@ -42,14 +42,14 @@ class Template {
     })
   }
 
-  #setPageContent(page) {
-    this.#setImage(page.imgUrl);
+  setPageContent(page) {
+    this.setImage(page.imgUrl);
     $( "#titleContent" ).html( page.title );
     $( "#copyrightContent" ).html( page.copyright );
     $( "#mainContent" ).html( page.content );
   }
 
-  #setImage(imgUrl) {
+  setImage(imgUrl) {
     const img = new Image();
     img.onload = function() {
       // console.log('onload', this.width + ', ' + this.height);
