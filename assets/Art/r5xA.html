@@ -1,0 +1,130 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Leonardo</title>
+  <link rel="stylesheet" href="../../font_styles.css">
+  <style>
+      * {
+          margin: 0;
+          padding: 0;
+          font-family: 'gilroybold';
+      }
+    body {
+      background:rgb(221, 218, 206);
+      font-size: 20px;
+    }
+
+    .vertwrap {
+        display: flex;
+        flex-direction: column;
+        height: calc(100vh - 20px);
+        padding: 10px;
+    }
+      
+            @media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+    .vertwrap {
+        display: flex;
+        flex-direction: column;
+        height: calc(100vh - 20px);
+        padding: 10px;         
+ 
+    }
+}
+
+    .verttitle {
+      color:black;
+      text-align: center;
+      font-size: 18px;
+        margin-bottom: 5px;
+    }
+
+    .vertimage {
+      margin: 0 auto;
+      position: relative;
+      max-width: 315px;
+        max-height: 80%;
+    }
+      
+      @media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+            .vertimage {
+        max-height: 70%;
+        max-width: 160px;
+    }
+}
+
+    .vertimage * {
+      max-width: 100%;
+      max-height: 100%;
+    }
+
+    .vertcopyright {
+        text-align: center;
+        padding: 5px 0 15px;
+        line-height: 1.2;
+        font-size: 14px;
+    }
+
+    p.lineh {
+      line-height: 135%;
+    }
+        .zoom {
+			display:inline-block;
+			position: relative;
+		}
+		
+		/* magnifying glass icon */
+		.zoom:after {
+			content:'';
+			display:block; 
+			width:33px; 
+			height:33px; 
+			position:absolute; 
+			top:0;
+			right:0;
+			background:url(icon.png);
+		}
+
+		.zoom img {
+			display: block;
+		}
+
+		.zoom img::selection { background-color: transparent; }
+
+		#ex2 img:hover { cursor: url(grab.cur), default; }
+		#ex2 img:active { cursor: url(grabbed.cur), default; } 
+  </style>
+    	
+</head>
+<body>
+<div class="vertwrap">
+  <h1 class="verttitle"><p>ヨルダヌス・ネモラリウス、『重力の科学』、ca. 1250. Jordanus Nemorarius, De ratione ponderis (Science of Weights)</p></h1>
+  <div class="vertimage">
+<span class='zoom' id='ex2'>
+      <img class="locsize" src="img/r5xA.png">
+    	</span>
+    </div>
+  <div class="vertcopyright"><p>1496 version. Source: Boston Public Library</p></div>
+  <div class="vertcontwrap">
+    <div class="vertcontent">
+      <div class="verttext">
+        <p class="lineh" lang="ja">"ネモラリウスは、13世紀の数学者、科学者で、特に中世の重力の科学的研究に大きな貢献をしています。位置エネルギーや分力を紹介したり、梃子の法則を証明したりしたことで知られます。ダ・ヴィンチは、エウクレイデスとアルキメデス著を含め、重力に関する本を何冊も所有しており、エンジニアとしてこのトピックに高い関心を寄せていたことが分かります。</p>
+      </div>
+    </div>
+  </div>
+</div>
+    <script src='jquery-3.6.1.min.js'></script>
+	<script src='jquery.zoom.js'></script>
+	<script>
+		$(document).ready(function(){
+			$('#ex1').zoom();
+			$('#ex2').zoom({ on:'grab' });
+			$('#ex3').zoom({ on:'click' });			 
+			$('#ex4').zoom({ on:'toggle' });
+		});
+	</script>
+</body>
+</html>
