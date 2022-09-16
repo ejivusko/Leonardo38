@@ -31,7 +31,11 @@
       <hotspot customimageheight="60" use3D="0" skinid="iFrame_Test" description="1ta" pan="-195.76" url="" customimage="media/icon3.png" title="『受胎告知』 Annunciation, ca. 1472-1473" tilt="-0.99" fov="10" distance3D="342.902" id="Point03" customimagewidth="60" target="_blank"/>
       <hotspot customimageheight="60" use3D="0" skinid="iFrame_Test" description="1p1" pan="-323.32" url="" customimage="media/icon3.png" title="&lt;center>『聖ヒエロニムス』&lt;br> Saint Jerome in the Wilderness, ca. 1482" tilt="-7.15" fov="10" distance3D="342.902" id="Point03" customimagewidth="60" target="_blank"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound mode="0" nodechangekeep="0" pan="-1.000" startmutedmobile="0" pansize="10.000" field="90.000" tilt="-1.000" level="1.000" loop="100" ambientlevel="0.000" id="_background" tiltsize="10.000">
+        <source url="media/01.mp3"/>
+      </sound>
+    </media>
     <transition type="crossdissolve" zoomafteroutfov="20" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" zoomafterinfov="90" zoomin="0" softedge="0" blendtime="1" zoomspeed="2" zoomfov="20"/>
     <autorotate speed="0.030" delay="4.00" noderandom="1" startloaded="1" useanimation="0" enabled="1" nodedelay="0.00" nodefilter="" returntohorizon="0.000"/>
     <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -78,7 +82,11 @@
       <hotspot customimageheight="60" use3D="0" skinid="iFrame_Test" description="2tc" pan="-125.44" url="" customimage="media/icon6e.png" title="『最後の晩餐』 Last Supper, ca. 1496〜1498" tilt="-3.33" fov="10" distance3D="342.902" id="Point03" customimagewidth="60" target="_blank"/>
       <hotspot customimageheight="60" use3D="0" skinid="iFrame_Test" description="2tt" pan="-52.38" url="" customimage="media/icon6e.png" title="天井画 『アッセの間』 Sala delle Asse, ca. 1498–1499" tilt="-2.95" fov="10" distance3D="342.902" id="Point03" customimagewidth="60" target="_blank"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound mode="0" nodechangekeep="0" pan="-1.000" startmutedmobile="0" pansize="10.000" field="90.000" tilt="-1.000" level="1.000" loop="100" ambientlevel="0.000" id="_background" tiltsize="10.000">
+        <source url="media/02.mp3"/>
+      </sound>
+    </media>
     <transition type="crossdissolve" zoomafteroutfov="20" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" zoomafterinfov="90" zoomin="0" softedge="0" blendtime="1" zoomspeed="2" zoomfov="20"/>
     <autorotate speed="0.030" delay="4.00" noderandom="1" startloaded="1" useanimation="0" enabled="1" nodedelay="0.00" nodefilter="" returntohorizon="0.000"/>
     <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -125,7 +133,11 @@
       <hotspot customimageheight="60" use3D="0" skinid="iFrame_Test" description="3tg" pan="-147.06" url="" customimage="media/icon3.png" title="&lt;center>『糸巻きの聖母』 &lt;br>Madonna of the Yarnwinder (The Buccleuch Madonna), ca. 1501-1507" tilt="-15.92" fov="10" distance3D="342.902" id="Point03" customimagewidth="60" target="_blank"/>
       <hotspot customimageheight="60" use3D="0" skinid="iFrame_Test" description="3tf" pan="-141.22" url="" customimage="media/icon3.png" title="&lt;center>『糸巻きの聖母』 &lt;br>Madonna of the Yarnwinder (The Lansdowne Madonna), ca. 1501-1507" tilt="-19.1" fov="10" distance3D="342.902" id="Point03" customimagewidth="60" target="_blank"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound mode="0" nodechangekeep="0" pan="-1.000" startmutedmobile="0" pansize="10.000" field="90.000" tilt="-1.000" level="1.000" loop="100" ambientlevel="0.000" id="_background" tiltsize="10.000">
+        <source url="media/03.mp3"/>
+      </sound>
+    </media>
     <transition type="crossdissolve" zoomafteroutfov="20" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" zoomafterinfov="90" zoomin="0" softedge="0" blendtime="1" zoomspeed="2" zoomfov="20"/>
     <autorotate speed="0.030" delay="4.00" noderandom="1" startloaded="1" useanimation="0" enabled="1" nodedelay="0.00" nodefilter="" returntohorizon="0.000"/>
     <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -158,7 +170,11 @@
       <hotspot customimageheight="60" use3D="0" skinid="iFrame_Test" description="r4xC" pan="-49.1" url="" customimage="media/icon2.png" title="アレッサンドロ・ベネデッティ (ca. 1450–1512)、『人体と解剖の歴史』、before 1502&lt;br>&#xa;Alessandro Benedetti, Historia corporis humani, sive Anatomice　&lt;br>(History of the Human Body, or Anatomy)" tilt="-4.31" fov="10" distance3D="342.902" id="Point04" customimagewidth="60" target="_blank"/>
       <hotspot customimageheight="60" use3D="0" skinid="iFrame_Test" description="4ta" pan="-131.93" url="" customimage="media/icon1.png" title="『自画像』 Portrait of a man in red chalk, ca. 1512" tilt="-4.25" fov="10" distance3D="342.902" id="Point03" customimagewidth="60" target="_blank"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound mode="0" nodechangekeep="0" pan="-1.000" startmutedmobile="0" pansize="10.000" field="90.000" tilt="-1.000" level="1.000" loop="100" ambientlevel="0.000" id="_background" tiltsize="10.000">
+        <source url="media/04.mp3"/>
+      </sound>
+    </media>
     <transition type="crossdissolve" zoomafteroutfov="20" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" zoomafterinfov="90" zoomin="0" softedge="0" blendtime="1" zoomspeed="2" zoomfov="20"/>
     <autorotate speed="0.030" delay="4.00" noderandom="1" startloaded="1" useanimation="0" enabled="1" nodedelay="0.00" nodefilter="" returntohorizon="0.000"/>
     <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -197,7 +213,11 @@
       <hotspot customimageheight="60" use3D="0" skinid="iFrame_Test" description="r5xC" pan="-208.21" url="" customimage="media/icon2.png" title="ジョルダーノ・ルッフォ (ca. 1200-1256)、『獣医学』&#xa;&lt;br>Giordano Ruffo, Arte di conoscere la natura dei cavalli&lt;br> (The Art of Knowing the Nature of Horses)" tilt="-10.36" fov="10" distance3D="342.902" id="Point04" customimagewidth="60" target="_blank"/>
       <hotspot customimageheight="60" use3D="0" skinid="iFrame_Test" description="r5xA" pan="-76.1" url="" customimage="media/icon2.png" title="ヨルダヌス・ネモラリウス、『重力の科学』、ca. 1250&lt;br>&#xa;Jordanus Nemorarius, De ratione ponderis (Science of Weights)" tilt="6.24" fov="10" distance3D="342.902" id="Point04" customimagewidth="60" target="_blank"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound mode="0" nodechangekeep="0" pan="-1.000" startmutedmobile="0" pansize="10.000" field="90.000" tilt="-1.000" level="1.000" loop="100" ambientlevel="0.000" id="_background" tiltsize="10.000">
+        <source url="media/05.mp3"/>
+      </sound>
+    </media>
     <transition type="crossdissolve" zoomafteroutfov="20" blendcolor="0x000000" zoomout="0" zoomoutpause="1" enabled="1" zoomafterinfov="90" zoomin="0" softedge="0" blendtime="1" zoomspeed="2" zoomfov="20"/>
     <autorotate speed="0.030" delay="4.00" noderandom="1" startloaded="1" useanimation="0" enabled="1" nodedelay="0.00" nodefilter="" returntohorizon="0.000"/>
     <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
