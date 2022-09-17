@@ -110,7 +110,7 @@
   <div class="vertcopyright"><p>Tempera, oil on wood, 103 × 74 cm, Vatican Museums, Rome</p></div>
   <div class="vertcontwrap">
     <div class="vertcontent">
-      <div class="verttext">
+      <div class="verttext" onmousedown='return false; onselectstart='return false;>
         <p class="lineh" lang="ja">聖ヒエロニムスが、カルキスの砂漠 (シリア) 砂漠で約4年間隠遁 (374〜378年頃) し、壮絶な気候の中で、孤独や欲望と戦う「苦行者としての側面」を絶妙にとらえています。人間の限界を神への献身によって克服しようとする葛藤が、心理と肉体の連携で描写されているところにダ・ヴィンチの独自性が宿っています。岸壁の2か所から奥を望む背景に、中央の聖ヒエロニムス、その手前にライオンを配置した構図も斬新です。異なる場所で5分割された状態で発見され、奇跡的につなぎ合わされて蘇った作品です。</p>
       </div>
     </div>
@@ -126,5 +126,20 @@
 			$('#ex4').zoom({ on:'toggle' });
 		});
 	</script>
+    <script type="text/javascript">
+function click (e) {
+  if (!e)
+    e = window.event;
+  if ((e.type && e.type == "contextmenu") || (e.button && e.button == 2) || (e.which && e.which == 3)) {
+    if (window.opera)
+      window.alert("");
+    return false;
+  }
+}
+if (document.layers)
+  document.captureEvents(Event.MOUSEDOWN);
+document.onmousedown = click;
+document.oncontextmenu = click;
+</script>
 </body>
 </html>
