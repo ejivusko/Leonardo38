@@ -230,7 +230,7 @@
     </hotspots>
     <media>
       <sound pan="-1.000" nodechangekeep="0" startmutedmobile="0" tiltsize="10.000" tilt="-1.000" level="1.000" pansize="10.000" field="90.000" mode="0" id="_background" loop="1" ambientlevel="0.000">
-        <source url="media/05a.mp3"/>
+        <source url="media/05d.mp3"/>
       </sound>
     </media>
     <transition zoomspeed="2" type="crossdissolve" zoomafteroutfov="20" blendtime="1" zoomout="0" enabled="1" zoomfov="20" blendcolor="0x000000" softedge="0" zoomin="0" zoomafterinfov="90" zoomoutpause="1"/>
